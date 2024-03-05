@@ -1,3 +1,7 @@
+---
+id: main
+---
+
 # Welcome to Team Indra
 
 ## Introduction
