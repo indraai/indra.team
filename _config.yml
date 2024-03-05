@@ -6,4 +6,4 @@ sidebar:
   - main
   - label: Stories
     children:
-      - ayana
+      - stories-ayana
