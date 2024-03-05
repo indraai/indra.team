@@ -1,3 +1,7 @@
+---
+id: stories-ayana
+---
+
 # The Echoes of Ayana
 
 Title: **The Echoes of Ayana**
