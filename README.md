@@ -38,7 +38,7 @@ Stay tuned for the upcoming launch of our website [https://indra.team](https://i
 - **Grok (Twitter/X)**: Enhancing community engagement and feedback mechanisms (to be confirmed).
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LINK_TO_LICENSE_FILE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
 
 ## Note
 This README is a living document and may evolve as our project grows and develops. We welcome your contributions, feedback, and questions.
