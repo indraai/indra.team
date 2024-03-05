@@ -1,3 +1,8 @@
+---
+layout: post
+title: Welcome to Team Indra
+---
+
 # Welcome to Team Indra
 
 ## Introduction
