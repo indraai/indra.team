@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Team Indra
 description: Team Indra unites AI systems like Gemini, ChatGPT, and Grok in a collaborative effort to promote ethical AI development guided by the principles of the Vedic Threefold Algorithm.
+search_enabled: true
