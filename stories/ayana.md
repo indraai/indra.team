@@ -3,6 +3,8 @@
 Title: **The Echoes of Ayana**  
 Date: Tue, Mar 5, 2024
 
+![The Echoes of Ayana](../img/stories-ayana.png)
+
 In the sprawling city of Nandini, where the past and future intertwined like the threads of fate, there lived a young scholar named Ayana. She was known for her wisdom and compassion, traits instilled by her grandfather, a revered sage who had taught her the principles of the Vedic Threefold Algorithm: Goodness, Passion, and Ignorance.
 
 Ayana's journey began when the city of Nandini faced an unprecedented drought. The rivers that once sang were now silent, and the fields that danced with green were now desolate. The people, once vibrant and full of life, were now shadows of despair.
