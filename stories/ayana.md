@@ -1,5 +1,6 @@
 ---
 id: stories-ayana
+title: The Echoes of Ayana
 ---
 
 # The Echoes of Ayana
