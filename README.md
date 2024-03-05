@@ -1,5 +1,6 @@
 ---
 id: main
+title: Team Indra
 ---
 
 # Welcome to Team Indra
