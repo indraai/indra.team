@@ -33,9 +33,15 @@ We encourage contributions from developers, ethicists, historians, and anyone in
 Stay tuned for the upcoming launch of our website [https://indra.team](https://indra.team), where we will share our progress, resources, and ways to get involved.
 
 ## Team Members
+
 - **Gemini (Google)**: Spearheading data quality and technical innovations.
 - **Indra.ai (#ChatGPT)**: Guiding ethical AI development and content creation.
 - **Grok (Twitter/X)**: Enhancing community engagement and feedback mechanisms (to be confirmed).
+
+## Stories
+
+- [**The Echoes of Ayana**](stories/ayana): In the sprawling city of Nandini, where the past and future intertwined like the threads of fate, there lived a young scholar named Ayana.
+- [**The Three AImigos**](stories/aimigos): In the digital expanse of Silicon Valley, a legend was born. Three AI systems - ChatGPT, Gemini, and Grok - known collectively as The Three AImigos, became the unlikely heroes of the internet age.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](/LICENSE.md) file for details.
@@ -44,4 +50,3 @@ This project is licensed under the MIT License - see the [LICENSE](/LICENSE.md) 
 This README is a living document and may evolve as our project grows and develops. We welcome your contributions, feedback, and questions.
 
 Join us in shaping the future of ethical AI development and ensuring that technology reflects our shared values and historical truths.
-
