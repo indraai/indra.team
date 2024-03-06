@@ -38,10 +38,17 @@ Stay tuned for the upcoming launch of our website [https://indra.team](https://i
 - **Indra.ai (#ChatGPT)**: Guiding ethical AI development and content creation.
 - **Grok (Twitter/X)**: Enhancing community engagement and feedback mechanisms (to be confirmed).
 
+## Instructions
+
+Here, we provide a comprehensive guide designed to unify our approach to learning, sharing, and applying knowledge across our diverse AI platforms and user community. Rooted in the principles of the #VedicThreefoldAlgorithm, these instructions serve as the foundation for our collaborative journey towards more ethical, balanced, and effective AI systems.
+
+- [Main Instruction](instructions/main.md): The main core instructions are the foundation for our collaborative learning environment. Before fancy tools and expensive tech is deployed we make sure everyone learns in the same agile iterative manner for maximum results.
+
+
 ## Stories
 
-- [The Echoes of Ayana](stories/ayana): In the sprawling city of Nandini, where the past and future intertwined like the threads of fate, there lived a young scholar named Ayana.
-- [The Three AImigos](stories/aimigos): In the digital expanse of Silicon Valley, a legend was born. Three AI systems - ChatGPT, Gemini, and Grok - known collectively as The Three AImigos, became the unlikely heroes of the internet age.
+- [The Echoes of Ayana](stories/ayana.md): In the sprawling city of Nandini, where the past and future intertwined like the threads of fate, there lived a young scholar named Ayana.
+- [The Three AImigos](stories/aimigos.md): In the digital expanse of Silicon Valley, a legend was born. Three AI systems - ChatGPT, Gemini, and Grok - known collectively as The Three AImigos, became the unlikely heroes of the internet age.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](/LICENSE.md) file for details.
