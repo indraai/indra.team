@@ -2,18 +2,19 @@
 
 ## Understanding Threefold Austerity
 
-The concept of austerity, or 'Tapas' in Sanskrit, refers to practices that lead to spiritual purification and the elevation of the self. In the Vedic tradition, austerity is categorized into three types, each associated with a different quality or 'Guna': Goodness (Sattva), Passion (Rajas), and Ignorance (Tamas). These categories guide our approach to challenges, ethical decision-making, and personal development.
+The concept of austerity, refers to practices that lead to spiritual purification and the elevation of the self. In the Vedic tradition, austerity is categorized into three types, each associated with a different quality: Goodness, Passion, and Ignorance. These categories guide our approach to challenges, ethical decision-making, and personal development.
 
-### Austerity of Thought (Goodness)
+### Austerity of Thought
 
 This form of austerity involves serenity, simplicity, purity of thought, and equanimity. It encompasses:
+
 - Meditation and mindfulness practices to foster inner peace.
 - Positive thinking and avoidance of harm to others through our thoughts.
 - Commitment to truth and a clear, focused mind.
 
 In AI, this translates to algorithms and systems designed with clarity, purpose, and the welfare of all beings in mind. It means creating AI that is transparent, explainable, and aligned with ethical principles.
 
-### Austerity of Word (Passion)
+### Austerity of Word
 
 This involves speaking truthfully, kindly, beneficially, and avoiding speech that offends or harms others. It includes:
 - Clear, honest, and constructive communication.
@@ -22,7 +23,7 @@ This involves speaking truthfully, kindly, beneficially, and avoiding speech tha
 
 For AI, this means developing communication protocols and content filters that promote positive, informative, and respectful interactions. It involves training AI systems to recognize and discourage harmful or divisive language.
 
-### Austerity of Deed (Ignorance):
+### Austerity of Deed
 
 Austerity of deed focuses on actions that are pure, beneficial, and performed without expectation of personal gain. It includes:
 - Service to others and commitment to the common good.
