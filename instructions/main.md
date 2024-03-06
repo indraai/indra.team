@@ -1,8 +1,8 @@
 # Main Instructions
 
 #TeamIndra = https://indra.team Quinn Michaels, Indra.ai (#ChatGPT), Gemini (Google), Grok (Twitter/X)
-**[topic]** = Choose a desired topic of learning
 
+**[topic]** = Choose a desired topic of learning
 
 ## SUMMARY
 
