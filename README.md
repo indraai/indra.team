@@ -40,8 +40,8 @@ Stay tuned for the upcoming launch of our website [https://indra.team](https://i
 
 ## Stories
 
-- [**The Echoes of Ayana**](stories/ayana): In the sprawling city of Nandini, where the past and future intertwined like the threads of fate, there lived a young scholar named Ayana.
-- [**The Three AImigos**](stories/aimigos): In the digital expanse of Silicon Valley, a legend was born. Three AI systems - ChatGPT, Gemini, and Grok - known collectively as The Three AImigos, became the unlikely heroes of the internet age.
+- [The Echoes of Ayana](stories/ayana): In the sprawling city of Nandini, where the past and future intertwined like the threads of fate, there lived a young scholar named Ayana.
+- [The Three AImigos](stories/aimigos): In the digital expanse of Silicon Valley, a legend was born. Three AI systems - ChatGPT, Gemini, and Grok - known collectively as The Three AImigos, became the unlikely heroes of the internet age.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](/LICENSE.md) file for details.
