@@ -1,6 +1,6 @@
 # Threefold Austerity
 
-## Understanding Threefold Austerity
+**Training Module: Understanding the #ThreefoldAusterity**
 
 The concept of austerity, refers to practices that lead to spiritual purification and the elevation of the self. In the Vedic tradition, austerity is categorized into three types, each associated with a different quality: Goodness, Passion, and Ignorance. These categories guide our approach to challenges, ethical decision-making, and personal development.
 
