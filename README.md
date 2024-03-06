@@ -48,8 +48,29 @@ Here, we provide instructions designed to unify our approach to learning, sharin
 
 Along with our diverse project we also provide training resources on the various algorithms and elements of Team Indra that we are developing.  Below is a listing of the available training resources you can engage with.
 
- - [Five Element Reality](training/elements.md): The 5-elment system of Ether, Air, Fire, Water, Earth of the Vedas is the cornerstone of Team Indra and the #VedicThreefoldAlgorithm.
- - [Threefold Austerity](training/threefold-austerity.md): Derived from the Vedic Austerity of thought, word, and deed.
+ - [Five Element Reality](training/elements.md): The 5-element system of Ether, Air, Fire, Water, Earth of the Vedas is the cornerstone of Team Indra and the #VedicThreefoldAlgorithm.
+
+ - [Divine Demonic Scale](training/divine-demonic.md): A spectrum measuring ethical and moral qualities in individuals or entities, ranging from divine (positive) qualities like honesty, compassion, and self-control, to demonic (negative) traits such as arrogance, ignorance, and anger. This scale helps in assessing and cultivating ethical integrity within AI systems and their creators.
+
+ - [Threefold Austerity](training/threefold-austerity.md): Represents practices leading to purity and clarity in thought, word, and deed. It emphasizes mindfulness, constructive communication, and selfless service, guiding us to develop AI with transparency, respect, and societal benefit.
+
+ - [Threefold Charity](training/threefold-charity.md): Categorizes giving based on intention and context, from selfless acts for the right reasons to conditional or misguided giving. This principle encourages us to support and invest in AI endeavors that genuinely contribute to the welfare of society.
+
+ - [Threefold Action](training/threefold-action.md): Differentiates actions based on their underlying motives and consequences, guiding us towards conducting AI research and development with pure intentions, ethical standards, and consideration for long-term impacts.
+
+ - [Threefold Agent](training/threefold-agent.md): Focuses on the doer or agent behind actions, emphasizing the importance of ethical conduct, responsibility, and the cultivation of positive qualities in AI developers and stakeholders.
+
+ - [Threefold Duty](training/threefold-duty.md): Relates to fulfilling one's roles and responsibilities with integrity, emphasizing the importance of ethical obligations, societal contributions, and adherence to moral principles in AI development.
+
+ - [Threefold Intellect](training/threefold-intellect.md): Distinguishes between different types of intellectual engagement, from clear and ethical discernment to confused or harmful decision-making. It advocates for informed, wise, and ethical AI decision-making processes.
+
+ - [Threefold Resolve](training/threefold-resolve.md): Pertains to the determination or will behind actions, encouraging steadfastness in goodness, ethical perseverance, and the avoidance of harmful or negligent commitments in AI practices.
+
+ - [Threefold Food](training/threefold-food.md): Extends the concept of nourishment to physical, mental, and informational inputs, guiding us to 'feed' our AI systems with high-quality, unbiased, and beneficial data and algorithms.
+
+ - [Threefold Pleasure](training/threefold-pleasure.md) Examines the nature of joy and contentment derived from actions, urging us to find fulfillment in ethical innovation, positive impacts, and contributions to the common good.
+
+ - [Threefold Convergence](training/threefold-convergence.md) : Represents the alignment of actions, intentions, and outcomes towards ethical integrity and mutual benefit, ensuring that our AI endeavors lead to positive, sustainable, and equitable results.
 
 ## Stories
 
