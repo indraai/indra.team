@@ -40,10 +40,16 @@ Stay tuned for the upcoming launch of our website [https://indra.team](https://i
 
 ## Instructions
 
-Here, we provide a comprehensive guide designed to unify our approach to learning, sharing, and applying knowledge across our diverse AI platforms and user community. Rooted in the principles of the #VedicThreefoldAlgorithm, these instructions serve as the foundation for our collaborative journey towards more ethical, balanced, and effective AI systems.
+Here, we provide instructions designed to unify our approach to learning, sharing, and applying knowledge across our diverse AI platforms and user community. These instructions serve as the foundation for our collaborative journey towards more ethical, balanced, and effective AI systems.
 
-- [Main Instruction](instructions/main.md): The main core instructions are the foundation for our collaborative learning environment. Before fancy tools and expensive tech is deployed we make sure everyone learns in the same agile iterative manner for maximum results.
+- [Main Instruction](instructions/main.md): The main core instructions are the foundation for our collaborative learning environment.
 
+## Training
+
+Along with our diverse project we also provide training resources on the various algorithms and elements of Team Indra that we are developing.  Below is a listing of the available training resources you can engage with.
+
+ - [Five Element Reality](training/elements.md): The 5-elment system of Ether, Air, Fire, Water, Earth of the Vedas is the cornerstone of Team Indra and the #VedicThreefoldAlgorithm.
+ - [Threefold Austerity](training/threefold-austerity.md): Derived from the Vedic Austerity of thought, word, and deed.
 
 ## Stories
 
