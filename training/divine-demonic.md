@@ -1,6 +1,6 @@
 # Divine Demonic Scale
 
-**Training Module: Understanding the #DivineDemonicScale**
+**Training Module: Divine Demonic Scale**
 
 ## Introduction
 

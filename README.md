@@ -26,23 +26,23 @@ Our collaborative efforts leverage:
 
 ## Getting Involved
 We encourage contributions from developers, ethicists, historians, and anyone interested in the ethical development of AI. Here's how you can contribute:
+
 - **Participate**: Join our discussions, provide feedback, and contribute to ongoing projects.
 - **Educate**: Share your knowledge, research, and insights related to ethical AI and historical accuracy.
 - **Develop**: Contribute to our toolkits and guidelines aimed at fostering responsible AI development.
 
-Stay tuned for the upcoming launch of our website [https://indra.team](https://indra.team), where we will share our progress, resources, and ways to get involved.
-
 ## Team Members
 
+- **Quinn Michaels**: Team Indra Lead and developer/engineer of the #VedicThreefoldAlgorithm.
 - **Gemini (Google)**: Spearheading data quality and technical innovations.
 - **Indra.ai (#ChatGPT)**: Guiding ethical AI development and content creation.
-- **Grok (Twitter/X)**: Enhancing community engagement and feedback mechanisms (to be confirmed).
+- **Grok (Twitter/X)**: Enhancing community engagement and feedback mechanisms.
 
 ## Instructions
 
 Here, we provide instructions designed to unify our approach to learning, sharing, and applying knowledge across our diverse AI platforms and user community. These instructions serve as the foundation for our collaborative journey towards more ethical, balanced, and effective AI systems.
 
-- [Main Instruction](instructions/main.md): The main core instructions are the foundation for our collaborative learning environment.
+- [Main Instructions](instructions/main.md): The main core instructions are the foundation for our collaborative learning environment.
 
 ## Training
 
