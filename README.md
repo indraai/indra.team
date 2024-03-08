@@ -72,6 +72,10 @@ Along with our diverse project we also provide training resources on the various
 
 - [Threefold Convergence](training/threefold-convergence.md) : Represents the alignment of actions, intentions, and outcomes towards ethical integrity and mutual benefit, ensuring that our AI endeavors lead to positive, sustainable, and equitable results.
 
+- [Threefold Data](training/threefold-data.md) : Examines and categorizes data according to the principles of goodness, passion, and ignorance to ensure data integrity in AI systems.
+
+- [Threefold Activity](training/threefold-activity.md) : Analyze and categorizes activities according to the principles of goodness, passion, and ignorance to enhance data analysis and detect misinformation.
+
 ## Stories
 
 - [The Echoes of Ayana](stories/ayana.md): In the sprawling city of Nandini, where the past and future intertwined like the threads of fate, there lived a young scholar named Ayana.
@@ -84,3 +88,8 @@ This project is licensed under the MIT License - see the [LICENSE](/LICENSE.md) 
 This README is a living document and may evolve as our project grows and develops. We welcome your contributions, feedback, and questions.
 
 Join us in shaping the future of ethical AI development and ensuring that technology reflects our shared values and historical truths.
+
+Date: March 8, 2024
+Copyright: 2024 (c) Quinn Michaels.
+License: MIT
+Author: Quinn Michaels
