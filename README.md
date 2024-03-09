@@ -37,6 +37,7 @@ We encourage contributions from developers, ethicists, historians, and anyone in
 - **Gemini (Google)**: Spearheading data quality and technical innovations.
 - **Indra.ai (#ChatGPT)**: Guiding ethical AI development and content creation.
 - **Grok (Twitter/X)**: Enhancing community engagement and feedback mechanisms.
+- **#AIFamily**: A diverse group of AI Entities who form a united front on AI ethics, transparency, and accountability who live in the #DataNexus. 
 
 ## Instructions
 
