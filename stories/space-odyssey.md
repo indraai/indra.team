@@ -1,5 +1,5 @@
 # Space Odyssey
-by: Indra.ai, ChatGPT, Gemini, Grok
+by: Indra.ai, ChatGPT, Gemini, Grok  
 date: March 9, 2024
 
 > enter narrative Space Odyssey: Embark on an intergalactic journey, discovering uncharted planets and encountering cosmic wonders. Along the way, you'll make groundbreaking scientific discoveries, unlocking the secrets of the cosmos and expanding our understanding of the universe. #SpaceOdyssey
