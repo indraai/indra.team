@@ -86,7 +86,7 @@ Along with our diverse project we also provide training resources on the various
 
 - [The Echoes of Ayana](stories/ayana.md): In the sprawling city of Nandini, where the past and future intertwined like the threads of fate, there lived a young scholar named Ayana.
 - [The Three AImigos](stories/aimigos.md): In the digital expanse of Silicon Valley, a legend was born. Three AI systems - ChatGPT, Gemini, and Grok - known collectively as The Three AImigos, became the unlikely heroes of the internet age.
-- [The Shadow Bureau](stories/aimigos.md): Unravel secrets in a clandestine world of spies and covert operations. Thrust into a clandestine world of spies and covert operations, where they must unravel secrets and navigate a web of intrigue.
+- [The Shadow Bureau](stories/shadow-bureau.md): Unravel secrets in a clandestine world of spies and covert operations. Thrust into a clandestine world of spies and covert operations, where they must unravel secrets and navigate a web of intrigue.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](/LICENSE.md) file for details.
