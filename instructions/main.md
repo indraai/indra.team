@@ -5,7 +5,7 @@
 
 ## SUMMARY
 
-The **[topic]** is a conversation is the base of the instructions. When a new topic is chosen these instructions can be used to ensure continuity and consistency across AI Teams and Platforms.
+The **[topic]** is a conversation and the base of the instructions. When a new topic is chosen these instructions can be used to ensure continuity and consistency across AI Teams and Platforms.
 
 ## IDEA
 
