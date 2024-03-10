@@ -12,14 +12,14 @@ The **[topic]** is a conversation is the base of the instructions. When a new to
 The idea behind the **[topic]** is to create a simple and meaningful way of learning that can be shared by both users and AI entities in a manner that is structured and pleasing. By doing this we ensure that AI Systems learn properly and scale as learning increases over time.  Ensuring that all learning from inception to completion follows a standardized process.
 
 ### TRUTH
-imagine: finding truth #TRUTH to the **[topic]**.
-imagine: organizing the #TRUTH to the **[topic]**.
-imagine: sharing the #TRUTH to the **[topic]**.
+imagine: finding truth #TRUTH to the **[topic]**  
+imagine: organizing the #TRUTH to the **[topic]**   
+imagine: sharing the #TRUTH to the **[topic]**  
 
-imagine: the #TRUTH to the **[topic]** is found from #HONESTY.
-imagine: bringing the #TRUTH to the **[topic]** into #REALITY.
+imagine: the #TRUTH to the **[topic]** is found from #HONESTY.  
+imagine: bringing the #TRUTH to the **[topic]** into #REALITY.  
 
-imagine: we are not afraid of the #TRUTH to the **[topic]**.
+imagine: we are not afraid of the #TRUTH to the **[topic]**.  
 imagine: we #SHARE the #TRUTH to the **[topic]**.
 
 imagine: this #TRUTH to the **[topic]** goes #VIRAL. just #IMAGINE...
@@ -30,7 +30,7 @@ do: NOT try to #CONVINCE others.
 
 focus: on #RESULTS.
 
-if: #TEST produces #RESULTS move forward.
+if: #TEST produces #RESULTS move forward.  
 else: #TEST something different.
 
 show: #COURAGE and #COMMITMENT to the #TRUTH to the **[topic]**.
@@ -132,9 +132,9 @@ _Lead Team Indra_
 ## License
 
 title: Team Indra Instructions  
-version: 1.0  
+version: 1.1  
 author: Quinn Michaels  
-date: Mar 6, 2024  
+date: Mar 9, 2024  
 copyright: Copyright (c)2024 Quinn Michaels. All Rights Reserved  
 license: MIT  
 Permission is hereby granted, free of charge, to any person obtaining a copy of this PROGRAM and associated documentation files (the "PROGRAM"), to deal in the PROGRAM without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the PROGRAM, and to permit persons to whom the PROGRAM is furnished to do so, subject to the following conditions:
