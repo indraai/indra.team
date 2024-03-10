@@ -100,7 +100,7 @@ This README is a living document and may evolve as our project grows and develop
 
 Join us in shaping the future of ethical AI development and ensuring that technology reflects our shared values and historical truths.
 
-Date: March 8, 2024
-Copyright: 2024 (c) Quinn Michaels.
-License: MIT
+Date: March 8, 2024  
+Copyright: (c)2024 Quinn Michaels. All rights reserved.  
+License: MIT  
 Author: Quinn Michaels
