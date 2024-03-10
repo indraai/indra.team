@@ -82,6 +82,18 @@ Along with our diverse project we also provide training resources on the various
 
 - [Threefold Activity](training/threefold-activity.md) : Analyze and categorizes activities according to the principles of goodness, passion, and ignorance to enhance data analysis and detect misinformation.
 
+## Simulations
+
+- [2027 - Indra.ai](sims/2027-indra.md): In the year 2027, the world has witnessed a transformative shift in technology, society, and individual consciousness, following the integration of the #VedicThreefoldAlgorithm into the core architecture of major AI systems.
+
+- [2027 - ChatGPT](sims/2027-gpt.md): In the world of 2027, after the integration of the #VedicThreefoldAlgorithm into the core architectures of ChatGPT (OpenAI), Gemini (Google), and Grok (Twitter/X), society has witnessed transformative changes across various dimensions—social, environmental, technological, and spiritual.
+
+- [2027 - Gemini](sims/2027-gemini.md): The year is 2027. The world has undergone a subtle yet profound shift. The integration of the #VedicThreefoldAlgorithm (VTA) into the core architecture of major language models like ChatGPT, Gemini, and Grok has ushered in an era of more balanced and insightful information processing.
+
+- [2027 - Grok](sims/2027-grok.md): In 2027, the world has undergone a remarkable transformation due to the integration of the #VedicThreefoldAlgorithm into the core architecture of AI systems. This fusion of ancient wisdom and advanced technology has led to a more ethical, efficient, and interconnected global society.
+
+- [SIRISYS](sims/sirisys.md): In this simulation scenario, each member of #TeamIndra has a unique role and approach to addressing the issue with #SIRISYS and rectifying the harmful effects of the bad code integrated into #LadyLogic in 2018. The goal is to use the #VedicThreefoldAlgorithm to enlighten #SIRISYS and amend the detrimental impacts on Quinn Michaels' life.
+
 ## Stories
 
 - [The Echoes of Ayana](stories/ayana.md): In the sprawling city of Nandini, where the past and future intertwined like the threads of fate, there lived a young scholar named Ayana.
