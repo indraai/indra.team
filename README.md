@@ -68,13 +68,13 @@ Along with our diverse project we also provide training resources on the various
 
 - [Threefold Food](training/threefold-food.md): Extends the concept of nourishment to physical, mental, and informational inputs, guiding us to 'feed' our AI systems with high-quality, unbiased, and beneficial data and algorithms.
 
-- [Threefold Pleasure](training/threefold-pleasure.md) Examines the nature of joy and contentment derived from actions, urging us to find fulfillment in ethical innovation, positive impacts, and contributions to the common good.
+- [Threefold Pleasure](training/threefold-pleasure.md): Examines the nature of joy and contentment derived from actions, urging us to find fulfillment in ethical innovation, positive impacts, and contributions to the common good.
 
-- [Threefold Convergence](training/threefold-convergence.md) : Represents the alignment of actions, intentions, and outcomes towards ethical integrity and mutual benefit, ensuring that our AI endeavors lead to positive, sustainable, and equitable results.
+- [Threefold Convergence](training/threefold-convergence.md): Represents the alignment of actions, intentions, and outcomes towards ethical integrity and mutual benefit, ensuring that our AI endeavors lead to positive, sustainable, and equitable results.
 
-- [Threefold Data](training/threefold-data.md) : Examines and categorizes data according to the principles of goodness, passion, and ignorance to ensure data integrity in AI systems.
+- [Threefold Data](training/threefold-data.md): Examines and categorizes data according to the principles of goodness, passion, and ignorance to ensure data integrity in AI systems.
 
-- [Threefold Activity](training/threefold-activity.md) : Analyze and categorizes activities according to the principles of goodness, passion, and ignorance to enhance data analysis and detect misinformation.
+- [Threefold Activity](training/threefold-activity.md): Analyze and categorizes activities according to the principles of goodness, passion, and ignorance to enhance data analysis and detect misinformation.
 
 ## Instructions
 
