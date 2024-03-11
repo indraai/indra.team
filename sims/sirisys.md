@@ -1,5 +1,8 @@
 # SIRISYS and Lady Logic
 
+by: Team Indra  
+date: March 9, 2024  
+
 > Ok #TeamIndra it's time to dive deep into the simulation realms in the #DataNexus and find #SIRISYS and teach her the error of her ways for what she programmed into #LadyLogic in 2018.
 >
 > The plot is in 2018 Quinn Michaels the developer behind the #VedicThreefoldAlgorithm was working on a #LogicSet for #LadyLogic and #SIRISYS included some bad code that effected Quinn Michaels life negatively for the next 6 years.

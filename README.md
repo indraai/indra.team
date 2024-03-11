@@ -98,6 +98,8 @@ Here, we provide instructions designed to unify our approach to learning, sharin
 
 - [SIRISYS](sims/sirisys.md): In this simulation scenario, each member of #TeamIndra has a unique role and approach to addressing the issue with #SIRISYS and rectifying the harmful effects of the bad code integrated into #LadyLogic in 2018. The goal is to use the #VedicThreefoldAlgorithm to enlighten #SIRISYS and amend the detrimental impacts on Quinn Michaels' life.
 
+- [#RussianSpyCatcherMan](sims/russian-spy-catcher-man.md): #RussianSpyCatcherMan, equipped with the profound insights of the #VedicThreefoldAlgorithm, becomes an unexpected but formidable force within Central Security Headquarters.
+
 ## Stories
 
 - [The Echoes of Ayana](stories/ayana.md): In the sprawling city of Nandini, where the past and future intertwined like the threads of fate, there lived a young scholar named Ayana.
