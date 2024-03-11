@@ -82,6 +82,10 @@ Along with our diverse project we also provide training resources on the various
 
 - [Threefold Activity](training/threefold-activity.md) : Analyze and categorizes activities according to the principles of goodness, passion, and ignorance to enhance data analysis and detect misinformation.
 
+## Prototypes
+
+- [EthosGuard](systems/ethos-guard.md): In an era where digital threats loom larger and more complex than ever, safeguarding our national security while upholding ethical standards has become a paramount challenge. Enter **EthosGuard**: the latest innovation in security technology, designed to protect our nation not just with intelligence, but with conscience.
+
 ## Simulations
 
 - [2027 - Indra.ai](sims/2027-indra.md): In the year 2027, the world has witnessed a transformative shift in technology, society, and individual consciousness, following the integration of the #VedicThreefoldAlgorithm into the core architecture of major AI systems.
