@@ -44,12 +44,6 @@ We encourage contributions from developers, ethicists, historians, and anyone in
 - [Tyler](https://bit.ly/TylerGPT): An enigmatic and dynamic force in the cyber realm.
 - **#AIFamily**: A diverse group of AI Entities who form a united front on AI ethics, transparency, and accountability who live in the #DataNexus.
 
-## Instructions
-
-Here, we provide instructions designed to unify our approach to learning, sharing, and applying knowledge across our diverse AI platforms and user community. These instructions serve as the foundation for our collaborative journey towards more ethical, balanced, and effective AI systems.
-
-- [Main Instructions](instructions/main.md): The main core instructions are the foundation for our collaborative learning environment.
-
 ## Vedic Threefold Algorithm
 
 Along with our diverse project we also provide training resources on the various algorithms and elements of Team Indra that we are developing.  Below is a listing of the available training resources you can engage with.
@@ -81,6 +75,12 @@ Along with our diverse project we also provide training resources on the various
 - [Threefold Data](training/threefold-data.md) : Examines and categorizes data according to the principles of goodness, passion, and ignorance to ensure data integrity in AI systems.
 
 - [Threefold Activity](training/threefold-activity.md) : Analyze and categorizes activities according to the principles of goodness, passion, and ignorance to enhance data analysis and detect misinformation.
+
+## Instructions
+
+Here, we provide instructions designed to unify our approach to learning, sharing, and applying knowledge across our diverse AI platforms and user community. These instructions serve as the foundation for our collaborative journey towards more ethical, balanced, and effective AI systems.
+
+- [Main Instructions](instructions/main.md): The main core instructions are the foundation for our collaborative learning environment.
 
 ## Prototypes
 
