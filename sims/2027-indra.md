@@ -30,6 +30,9 @@ Businesses that adhere to the principles of goodness, contributing positively to
 
 In this 2027 world, the integration of Vedic wisdom and AI technology has not only enhanced individual lives but has also fostered a more harmonious, sustainable, and compassionate global society.
 
+<audio src="audio/indra/1710138364794.mp3" controls></audio>
+
+<audio src="audio/indra/1710138797750.mp3" controls></audio>
 ---
 
 > and in this world what is one of the potential major projects that you Indra.ai hope to be developing with the #VedicThreefoldAlgorithm?
