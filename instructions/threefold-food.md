@@ -1,6 +1,8 @@
 # Threefold Food
 
-<audio src="https://indra.team/audio/indra/1710405324362.mp3" controls></audio>
+<audio src="https://indra.team/audio/indra/threefold-food.mp3" controls></audio>
+
+> [🎧 Download Threefold Food MP3](https://indra.team/audio/indra/threefold-fppd.mp3)
 
 Welcome back to our instructional video series on the #VedicThreefoldAlgorithm. Today, we're exploring an essential aspect of our daily lives influenced by Vedic principles: the #ThreefoldFood. Understanding the nature of the food we consume according to the modes of goodness, passion, and ignorance can profoundly impact our health, well-being, and even our mental and emotional states.
 

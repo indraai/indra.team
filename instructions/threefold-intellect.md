@@ -1,6 +1,8 @@
 # Threefold Intellect
 
-<audio src="https://indra.team/audio/indra/1710310086520.mp3" controls></audio>
+<audio src="https://indra.team/audio/indra/threefold-intellect.mp3" controls></audio>
+
+> [🎧 Download Threefold Intellect MP3](https://indra.team/audio/indra/threefold-intellect.mp3)
 
 Welcome back to our instructional series on the #VedicThreefoldAlgorithm. In this segment, we delve into the concept of the #ThreefoldIntellect. This aspect helps us understand how our cognitive processes, influenced by different modes, affect our perception of duty, ethics, and the world around us. Understanding this concept can enhance our decision-making and lead us towards more fulfilling actions.
 

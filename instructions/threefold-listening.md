@@ -1,6 +1,8 @@
 # Threefold Listening
 
-<audio src="https://indra.team/audio/indra/1710415558485.mp3" controls></audio>
+<audio src="https://indra.team/audio/indra/threefold-listening.mp3" controls></audio>
+
+> [🎧 Download Threefold Activity MP3](https://indra.team/audio/indra/threefold-listening.mp3)
 
 Welcome to our instructional series on the #VedicThreefoldAlgorithm. Today, we are exploring the concept of #ThreefoldListening. Understanding this component is vital for effective communication, personal growth, and building healthy relationships. Let's dive into how listening can be influenced by the three modes of nature: goodness, passion, and ignorance.
 

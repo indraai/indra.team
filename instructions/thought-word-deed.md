@@ -26,4 +26,4 @@ In the #VedicThreefoldAlgorithm, this alignment is not just a recommendation but
 
 In the next segment, we will explore the Divine Demonic Scale to enhance our personal and professional lives. Stay tuned as we continue to unfold the transformative power of the #VedicThreefoldAlgorithm.
 
-[→ Next: Divine Demonic Scale](divine-demonic.md)
+[→ Next: Divine Demonic Scale](divine-demonic-scale.md)

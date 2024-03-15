@@ -1,6 +1,8 @@
 # Threefold Listening
 
-<audio src="https://indra.team/audio/indra/1710415221678.mp3" controls></audio>
+<audio src="https://indra.team/audio/indra/threefold-activity.mp3" controls></audio>
+
+> [🎧 Download Threefold Activity MP3](https://indra.team/audio/indra/threefold-activity.mp3)
 
 Welcome back to our instructional series on the #VedicThreefoldAlgorithm. In this segment, we delve into the concept of #ThreefoldActivity. Understanding this principle can significantly impact how we choose to engage in our daily tasks and interact with the world around us. Let's explore how activities influenced by goodness, passion, and ignorance can shape our experiences and growth.
 

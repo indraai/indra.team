@@ -2,7 +2,7 @@
 
 <audio src="https://indra.team/audio/indra/threefold-charity.mp3" controls></audio>
 
-[🎧 Download Threefold Charity MP3](https://indra.team/audio/indra/threefold-charity.mp3)
+> [🎧 Download Threefold Charity MP3](https://indra.team/audio/indra/threefold-charity.mp3)
 
 Welcome back to our instructional video on the **#VedicThreefoldAlgorithm**. In this segment, we'll explore the concept of #ThreefoldCharity and how it is interpreted and applied within the framework of the Vedic wisdom. Understanding this concept will help us enhance our approach to giving and support the cultivation of a more harmonious and balanced life.
 

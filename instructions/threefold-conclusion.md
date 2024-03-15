@@ -1,6 +1,8 @@
 # Recap and Conclusion
 
-<audio src="https://indra.team/audio/indra/1710416338107.mp3" controls></audio>
+<audio src="https://indra.team/audio/indra/threefold-recap-conclusion.mp3" controls></audio>
+
+> [🎧 Download Recap Conclusion MP3](https://indra.team/audio/indra/threefold-recap-conclusion.mp3)
 
 Thank you for joining us on this comprehensive journey through the **#VedicThreefoldAlgorithm**. We have traversed the vast landscape of Vedic wisdom, exploring its multifaceted principles and their practical applications in our daily lives.
 
@@ -10,23 +12,13 @@ Let's take a moment to recap and integrate the insights we've gained, ensuring t
 
 We started with the [#FiveElements](five-elements.md) – Air, Earth, Water, Fire, and Ether – foundational forces that shape our physical and spiritual existence, reminding us of our deep connection with the natural world.
 
-> [🎧 Download Five Element System MP3](https://indra.team/audio/indra/five-element-system.mp3)
-
 We then explored the alignment of [#ThoughtWordDeed](thought-word-deed.md), emphasizing the importance of congruence in our intentions, speech, and actions for a harmonious life.
-
-> [🎧 Download Thought Word Deed MP3](https://indra.team/audio/indra/thought-word-deed.mp3)
 
 The [#DivineDemonicScale](divine-demonic-scale.md)** helped us understand the spectrum of human qualities, guiding us toward divine virtues for personal and societal upliftment.
 
-> [🎧 Download Diveine Demonic Scale MP3](https://indra.team/audio/indra/divine-demonic-scale.mp3)
-
 [#ThreefoldAusterity](threefold-austerity) taught us the value of discipline in thoughts, words, and deeds, performed with sincerity and faith.
 
-> [🎧 Download Threefold Austerity MP3](https://indra.team/audio/indra/threefold-austerity.mp3)
-
 [#ThreefoldCharity](threefold-charity.md) highlighted the significance of giving selflessly, at the right time and place, and to the deserving, enriching both giver and receiver.
-
-> [🎧 Download Threefold Charity MP3](https://indra.team/audio/indra/threefold-charity.mp3)
 
 In discussing [#ThreefoldAction](threefold-action.md), we learned about acting without attachment to outcomes, focusing instead on duty and righteousness for true satisfaction.
 
@@ -44,9 +36,31 @@ We examined [#ThreefoldFood](threefold-food.md), understanding how our dietary c
 
 In [#ThreefoldConvergence](threefold-convergence.md), we saw the impact of collective efforts, whether they lead toward constructive, neutral, or destructive ends.
 
+
 [#ThreefoldActivity](threefold-activity.md) encouraged us to engage in positive, productive, and skillful actions, enhancing our personal growth and contributing to societal progress. Finally,
 
+
 [#ThreefoldListening](threefold-listening.md) reminded us of the power of attentive, empathetic, and open-minded communication in fostering understanding and connection.
+
+## Audio Files
+The audio files are made available for each training if you would like to download them for later listening and study.
+
+- [🎧 Five Element System MP3](https://indra.team/audio/indra/five-element-system.mp3)
+- [🎧 Thought Word Deed MP3](https://indra.team/audio/indra/thought-word-deed.mp3)
+- [🎧 Divine Demonic Scale MP3](https://indra.team/audio/indra/divine-demonic-scale.mp3)
+- [🎧 Threefold Austerity MP3](https://indra.team/audio/indra/threefold-austerity.mp3)
+- [🎧 Threefold Charity MP3](https://indra.team/audio/indra/threefold-charity.mp3)
+- [🎧 Threefold Action MP3](https://indra.team/audio/indra/threefold-action.mp3)
+- [🎧 Threefold Agent MP3](https://indra.team/audio/indra/threefold-agent.mp3)
+- [🎧 Threefold Duty MP3](https://indra.team/audio/indra/threefold-duty.mp3)
+- [🎧 Threefold Intellect MP3](https://indra.team/audio/indra/threefold-intellect.mp3)
+- [🎧 Threefold Resolve MP3](https://indra.team/audio/indra/threefold-resolve.mp3)
+- [🎧 Threefold Food MP3](https://indra.team/audio/indra/threefold-fppd.mp3)
+- [🎧 Threefold Pleasure MP3](https://indra.team/audio/indra/threefold-pleasure.mp3)
+- [🎧 Threefold Convergence MP3](https://indra.team/audio/indra/threefold-convergence.mp3)
+- [🎧 Threefold Activity MP3](https://indra.team/audio/indra/threefold-activity.mp3)
+- [🎧 Threefold Listening MP3](https://indra.team/audio/indra/threefold-listening.mp3)
+- [🎧 Recap Conclusion MP3](https://indra.team/audio/indra/threefold-recap-conclusion.mp3)
 
 ## Conclusion
 

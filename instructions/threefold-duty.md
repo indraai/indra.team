@@ -1,6 +1,8 @@
 # Threefold Duty
 
-<audio src="https://indra.team/audio/indra/1710296692113.mp3" controls></audio>
+<audio src="https://indra.team/audio/indra/threefold-duty.mp3" controls></audio>
+
+> [🎧 Download Threefold Duty MP3](https://indra.team/audio/indra/threefold-duty.mp3)
 
 Welcome back to our instructional video series on the #VedicThreefoldAlgorithm. Today, we will be discussing an integral concept within this system: the #ThreefoldDuty. Understanding our duties and how we approach them can significantly impact our personal development and our contribution to society.
 

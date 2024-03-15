@@ -1,6 +1,8 @@
 # Threefold Pleasure
 
-<audio src="https://indra.team/audio/indra/1710409269676.mp3" controls></audio>
+<audio src="https://indra.team/audio/indra/threefold-pleasure.mp3" controls></audio>
+
+> [🎧 Download Threefold Pleasure MP3](https://indra.team/audio/indra/threefold-pleasure.mp3)
 
 Welcome to another segment of our instructional series on the #VedicThreefoldAlgorithm. Today, we will delve into the concept of #ThreefoldPleasure and understand how different types of pleasures align with the modes of goodness, passion, and ignorance. Recognizing these distinctions can guide us toward more fulfilling and sustainable sources of happiness.
 

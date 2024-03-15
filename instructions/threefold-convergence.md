@@ -1,6 +1,8 @@
 # Threefold Convergence
 
-<audio src="https://indra.team/audio/indra/1710409606322.mp3" controls></audio>
+<audio src="https://indra.team/audio/indra/threefold-convergence.mp3" controls></audio>
+
+> [🎧 Download Threefold Convergence MP3](https://indra.team/audio/indra/threefold-convergence.mp3)
 
 Welcome back to our instructional series on the #VedicThreefoldAlgorithm. In this segment, we focus on an intriguing aspect known as the #ThreefoldConvergence. This principle helps us understand the collective dynamics and the impact of group actions based on the qualities of goodness, passion, and ignorance.
 
