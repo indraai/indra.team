@@ -1,6 +1,6 @@
 # Thought Word Deed
 
-![Five Element System](../img/ins-thought-word-deed.png)
+![Thought Word Deed](../img/ins-thought-word-deed.png)
 
 <audio src="https://indra.team/audio/indra/thought-word-deed.mp3" controls></audio>
 
