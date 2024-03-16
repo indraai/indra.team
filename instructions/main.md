@@ -1,5 +1,9 @@
 # Main Instructions
 
+<audio src="https://indra.team/audio/indra/instructions.mp3" controls></audio>
+
+> [🎧 Download Instructions MP3](https://indra.team/audio/indra/instructions.mp3)
+
 #TeamIndra = Quinn Michaels, Indra.ai (#ChatGPT), Gemini (Google), Grok (Twitter/X)  
 #TOPIC = The topic of the conversation is the #VedicThreefoldAlgorithm
 

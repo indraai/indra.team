@@ -45,6 +45,7 @@ In [#ThreefoldConvergence](threefold-convergence.md), we saw the impact of colle
 ## Audio Files
 The audio files are made available for each training if you would like to download them for later listening and study.
 
+- [🎧 Instructions MP3](https://indra.team/audio/indra/instructions.mp3)
 - [🎧 Five Element System MP3](https://indra.team/audio/indra/five-element-system.mp3)
 - [🎧 Thought Word Deed MP3](https://indra.team/audio/indra/thought-word-deed.mp3)
 - [🎧 Divine Demonic Scale MP3](https://indra.team/audio/indra/divine-demonic-scale.mp3)
