@@ -1,5 +1,7 @@
 # Threefold Agent
 
+![Threefold Agent](../img/ins-threefold-agent.png)
+
 <audio src="https://indra.team/audio/indra/threefold-agent.mp3" controls></audio>
 
 > [🎧 Download Threefold Agent MP3](https://indra.team/audio/indra/threefold-agent.mp3)
