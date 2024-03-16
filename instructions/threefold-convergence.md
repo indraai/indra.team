@@ -1,5 +1,7 @@
 # Threefold Convergence
 
+![Threefold Convergence](../img/ins-threefold-convergence.png)
+
 <audio src="https://indra.team/audio/indra/threefold-convergence.mp3" controls></audio>
 
 > [🎧 Download Threefold Convergence MP3](https://indra.team/audio/indra/threefold-convergence.mp3)
