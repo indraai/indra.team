@@ -4,7 +4,7 @@
 
 > [🎧 Download Threefold Agent MP3](https://indra.team/audio/indra/threefold-agent.mp3)
 
-Welcome to the next segment of our instructional series on the #VedicThreefoldAlgorithm. Today, we will explore the concept of the #ThreefoldAgent. This aspect helps us understand the nature and quality of the 'doer' or the individual performing actions. By analyzing our own tendencies and motivations, we can shift towards more harmonious and effective ways of being and acting in the world.
+Welcome to the next segment of our instructional series on the **#VedicThreefoldAlgorithm**. Today, we will explore the concept of the **#ThreefoldAgent**. This aspect helps us understand the nature and quality of the 'doer' or the individual performing actions. By analyzing our own tendencies and motivations, we can shift towards more harmonious and effective ways of being and acting in the world.
 
 ## #ThreefoldAgent Explained
 
@@ -28,6 +28,6 @@ To cultivate the qualities of a good agent, consider the following practices:
 
 - **Respond, Don't React:** Train yourself to respond to situations with thoughtfulness and composure, rather than reacting impulsively or emotionally.
 
-By understanding and embodying the concept of the #ThreefoldAgent, we can transform our actions and interactions, leading to more fulfilling and harmonious outcomes. In the next segment, we will delve deeper into the #VedicThreefoldAlgorithm and how it can be applied to further aspects of our lives. Stay with us for more insights.
+By understanding and embodying the concept of the **#ThreefoldAgent**, we can transform our actions and interactions, leading to more fulfilling and harmonious outcomes. In the next segment, we will delve deeper into the **#VedicThreefoldAlgorithm** and how it can be applied to further aspects of our lives. Stay with us for more insights.
 
 [→ Next: Threefold Duty](threefold-duty.md)

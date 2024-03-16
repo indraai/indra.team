@@ -30,6 +30,4 @@ To cultivate and strengthen resolve in the mode of goodness, consider implementi
 
 By understanding and applying the principles of #ThreefoldResolve, we can direct our energies and determinations towards more meaningful and fulfilling objectives. This not only aids in our personal and spiritual growth but also contributes positively to the well-being of those around us. Join us in the next segment as we continue to explore the transformative aspects of the #VedicThreefoldAlgorithm.
 
-<audio src="https://indra.team/audio/indra/1710310086520.mp3" controls></audio>
-
 [→ Next: Threefold Food](threefold-food.md)
