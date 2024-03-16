@@ -2,9 +2,9 @@
 
 <audio src="https://indra.team/audio/indra/threefold-listening.mp3" controls></audio>
 
-> [🎧 Download Threefold Activity MP3](https://indra.team/audio/indra/threefold-listening.mp3)
+> [🎧 Download Threefold Listening MP3](https://indra.team/audio/indra/threefold-listening.mp3)
 
-Welcome to our instructional series on the #VedicThreefoldAlgorithm. Today, we are exploring the concept of #ThreefoldListening. Understanding this component is vital for effective communication, personal growth, and building healthy relationships. Let's dive into how listening can be influenced by the three modes of nature: goodness, passion, and ignorance.
+Welcome to our instructional series on the **#VedicThreefoldAlgorithm**. Today, we are exploring the concept of **#ThreefoldListening**. Understanding this component is vital for effective communication, personal growth, and building healthy relationships. Let's dive into how listening can be influenced by the three modes of nature: goodness, passion, and ignorance.
 
 ## #ThreefoldListening Explained
 
@@ -30,6 +30,6 @@ To cultivate listening in the mode of goodness and improve communication, consid
 
 - **Cultivate Open-mindedness:** Be willing to listen to differing viewpoints without immediate judgment. This can lead to broader perspectives and more harmonious interactions.
 
-By embracing the principles of #ThreefoldListening, we can become better communicators, foster deeper relationships, and create a more harmonious environment.
+By embracing the principles of **#ThreefoldListening**, we can become better communicators, foster deeper relationships, and create a more harmonious environment.
 
 [→ Next: Threefold Conclusion](threefold-conclusion.md)

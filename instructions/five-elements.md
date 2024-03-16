@@ -1,5 +1,7 @@
 # Five Elements
 
+![Five Element System](../img/ins-five-elements.png)
+
 <audio src="https://indra.team/audio/indra/five-element-system.mp3" controls></audio>
 
 > [🎧 Download Five Element System MP3](https://indra.team/audio/indra/five-element-system.mp3)
