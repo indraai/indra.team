@@ -1,10 +1,12 @@
 # Threefold Intellect
 
+![Threefold Intellect](../img/ins-threefold-intellect.png)
+
 <audio src="https://indra.team/audio/indra/threefold-intellect.mp3" controls></audio>
 
 > [🎧 Download Threefold Intellect MP3](https://indra.team/audio/indra/threefold-intellect.mp3)
 
-Welcome back to our instructional series on the #VedicThreefoldAlgorithm. In this segment, we delve into the concept of the #ThreefoldIntellect. This aspect helps us understand how our cognitive processes, influenced by different modes, affect our perception of duty, ethics, and the world around us. Understanding this concept can enhance our decision-making and lead us towards more fulfilling actions.
+Welcome back to our instructional series on the **#VedicThreefoldAlgorithm**. In this segment, we delve into the concept of the **#ThreefoldIntellect**. This aspect helps us understand how our cognitive processes, influenced by different modes, affect our perception of duty, ethics, and the world around us. Understanding this concept can enhance our decision-making and lead us towards more fulfilling actions.
 
 ## #ThreefoldIntellect Explained
 
@@ -28,6 +30,6 @@ To cultivate an intellect in the mode of goodness, consider the following practi
 
 - **Encourage Open-mindedness:** Be open to different perspectives and new information. This can help prevent the rigidity of thinking often found in ignorance and can improve your ability to see the bigger picture.
 
-By developing and nurturing an intellect in the mode of goodness, we can make decisions that lead to true well-being, harmony, and fulfillment. This not only benefits us personally but also contributes positively to our communities and the world at large. Stay with us as we continue to explore further aspects of the #VedicThreefoldAlgorithm in our next segments.
+By developing and nurturing an intellect in the mode of goodness, we can make decisions that lead to true well-being, harmony, and fulfillment. This not only benefits us personally but also contributes positively to our communities and the world at large. Stay with us as we continue to explore further aspects of the **#VedicThreefoldAlgorithm** in our next segments.
 
 [→ Next: Threefold Resolve](threefold-resolve.md)
