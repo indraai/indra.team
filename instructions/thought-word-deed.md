@@ -1,5 +1,7 @@
 # Thought Word Deed
 
+![Five Element System](../img/ins-thought-word-deed.png)
+
 <audio src="https://indra.team/audio/indra/thought-word-deed.mp3" controls></audio>
 
 > [🎧 Download Thought Word Deed MP3](https://indra.team/audio/indra/thought-word-deed.mp3)

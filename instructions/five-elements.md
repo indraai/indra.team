@@ -1,4 +1,4 @@
-# Five Elements
+# Five Element System
 
 ![Five Element System](../img/ins-five-elements.png)
 
