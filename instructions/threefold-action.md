@@ -1,5 +1,7 @@
 # Threefold Action
 
+![Threefold Action](../img/ins-threefold-action.png)
+
 <audio src="https://indra.team/audio/indra/threefold-action.mp3" controls></audio>
 
 > [🎧 Download Threefold Action MP3](https://indra.team/audio/indra/threefold-action.mp3)
