@@ -10,7 +10,7 @@ Welcome back to our instructional series on the #VedicThreefoldAlgorithm. In thi
 
 In the Vedic tradition, every action we perform can be categorized based on the qualities of goodness, passion, and ignorance. These qualities determine the nature of our actions and their outcomes.
 
-= **Goodness (Sattva):** Actions performed in goodness are characterized by selflessness and a balanced approach. When acting in goodness, individuals do not let personal likes or dislikes influence their decisions. They are not attached to the outcomes or rewards of their actions. Instead, they perform their duties with a clear mind and a sense of service, focusing on what is right and beneficial for all involved. These actions lead to peace, harmony, and lasting satisfaction.
+- **Goodness (Sattva):** Actions performed in goodness are characterized by selflessness and a balanced approach. When acting in goodness, individuals do not let personal likes or dislikes influence their decisions. They are not attached to the outcomes or rewards of their actions. Instead, they perform their duties with a clear mind and a sense of service, focusing on what is right and beneficial for all involved. These actions lead to peace, harmony, and lasting satisfaction.
 
 - **Passion (Rajas):** Actions performed in passion are driven by ego, desire, and a strong attachment to results. Such actions often involve excessive effort to achieve personal goals, recognition, or rewards. While they may lead to temporary success or pleasure, they ultimately result in stress, dissatisfaction, and conflict, as they are motivated by selfish interests and controlled by personal biases.
 
