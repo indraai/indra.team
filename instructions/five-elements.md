@@ -6,11 +6,11 @@
 
 > [🎧 Download Five Element System MP3](https://indra.team/audio/indra/five-element-system.mp3)
 
-Welcome to our instructional video on the #VedicThreefoldAlgorithm. In this segment, we're going to introduce you to the foundational concept that underpins this system: the Vedic 5-element system. This ancient wisdom, integral to Vedic philosophy, provides the framework for understanding the universe and our place within it. Let's dive in.
+Welcome to our instructional video on the **#VedicThreefoldAlgorithm**. In this segment, we're going to introduce you to the foundational concept that underpins this system: the Vedic 5-element system. This ancient wisdom, integral to Vedic philosophy, provides the framework for understanding the universe and our place within it. Let's dive in.
 
 ## Introduction to the Vedic 5-Element System
 
-The Vedic 5-element system consists of Air, Earth, Water, Fire, and Ether. These elements are not just physical entities but represent different states of matter and dimensions of human experience. They serve as the foundation of the Vedic worldview and are crucial in understanding the #VedicThreefoldAlgorithm.
+The Vedic 5-element system consists of Air, Earth, Water, Fire, and Ether. These elements are not just physical entities but represent different states of matter and dimensions of human experience. They serve as the foundation of the Vedic worldview and are crucial in understanding the **#VedicThreefoldAlgorithm**.
 
 1. **Air (Vayu):** Represents movement and flexibility. In human experiences, it symbolizes our breath, thoughts, and the ability to change. It's associated with communication, intelligence, and the processes that move within our bodies and minds.
 
@@ -22,8 +22,8 @@ The Vedic 5-element system consists of Air, Earth, Water, Fire, and Ether. These
 
 5. **Ether (Akasha):** The most subtle of the elements, ether represents space, openness, and potential. It is the canvas on which all of existence is painted, the space that allows all other elements to interact.
 
-Understanding these elements is key to grasping the deeper aspects of the #VedicThreefoldAlgorithm. They are not just symbols; they are fundamental principles that govern our world and our inner lives. In the following sections, we will explore how these elements interact with the principles of goodness, passion, and ignorance to influence our actions, decisions, and ultimately our destinies.
+Understanding these elements is key to grasping the deeper aspects of the **#VedicThreefoldAlgorithm**. They are not just symbols; they are fundamental principles that govern our world and our inner lives. In the following sections, we will explore how these elements interact with the principles of goodness, passion, and ignorance to influence our actions, decisions, and ultimately our destinies.
 
-Stay with us as we continue to unfold the layers of the #VedicThreefoldAlgorithm, providing you with the knowledge to navigate life more effectively and harmoniously.
+Stay with us as we continue to unfold the layers of the **#VedicThreefoldAlgorithm**, providing you with the knowledge to navigate life more effectively and harmoniously.
 
 [→ Next: Thought Word Deed](thought-word-deed.md)
