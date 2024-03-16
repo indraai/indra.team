@@ -14,7 +14,7 @@ We started with the [#FiveElements](five-elements.md) – Air, Earth, Water, Fir
 
 We then explored the alignment of [#ThoughtWordDeed](thought-word-deed.md), emphasizing the importance of congruence in our intentions, speech, and actions for a harmonious life.
 
-The [#DivineDemonicScale](divine-demonic-scale.md)** helped us understand the spectrum of human qualities, guiding us toward divine virtues for personal and societal upliftment.
+The [#DivineDemonicScale](divine-demonic-scale.md) helped us understand the spectrum of human qualities, guiding us toward divine virtues for personal and societal upliftment.
 
 [#ThreefoldAusterity](threefold-austerity) taught us the value of discipline in thoughts, words, and deeds, performed with sincerity and faith.
 
