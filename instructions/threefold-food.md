@@ -1,10 +1,12 @@
 # Threefold Food
 
+![Threefold Food](../img/ins-threefold-food.png)
+
 <audio src="https://indra.team/audio/indra/threefold-food.mp3" controls></audio>
 
 > [🎧 Download Threefold Food MP3](https://indra.team/audio/indra/threefold-fppd.mp3)
 
-Welcome back to our instructional video series on the #VedicThreefoldAlgorithm. Today, we're exploring an essential aspect of our daily lives influenced by Vedic principles: the #ThreefoldFood. Understanding the nature of the food we consume according to the modes of goodness, passion, and ignorance can profoundly impact our health, well-being, and even our mental and emotional states.
+Welcome back to our instructional video series on the **#VedicThreefoldAlgorithm**. Today, we're exploring an essential aspect of our daily lives influenced by Vedic principles: the **#ThreefoldFood**. Understanding the nature of the food we consume according to the modes of goodness, passion, and ignorance can profoundly impact our health, well-being, and even our mental and emotional states.
 
 ## #ThreefoldFood Explained
 
@@ -18,7 +20,7 @@ In the Vedic tradition, food is not just physical nourishment but also contribut
 
 ## Applying #ThreefoldFood in Daily Life
 
-Incorporating the principles of #ThreefoldFood into our daily routine involves making conscious choices about what we eat. Here's how you can apply these principles:
+Incorporating the principles of **#ThreefoldFood** into our daily routine involves making conscious choices about what we eat. Here's how you can apply these principles:
 
 - **Choose Fresh and Nutritious:** Opt for fresh, natural, and wholesome foods that nourish the body and mind. Incorporate a variety of fruits, vegetables, whole grains, and nuts into your diet.
 
@@ -28,6 +30,6 @@ Incorporating the principles of #ThreefoldFood into our daily routine involves m
 
 - **Mindful Eating:** Eat with awareness and gratitude. Take the time to enjoy your meals without distractions, savoring the flavors and appreciating the nourishment they provide.
 
-By understanding and applying the #ThreefoldFood principles, we can improve our physical health, enhance our mental clarity, and progress on our spiritual journey. In our next segment, we will continue to delve deeper into the transformative power of the #VedicThreefoldAlgorithm. Stay tuned for more insights.
+By understanding and applying the **#ThreefoldFood** principles, we can improve our physical health, enhance our mental clarity, and progress on our spiritual journey. In our next segment, we will continue to delve deeper into the transformative power of the **#VedicThreefoldAlgorithm**. Stay tuned for more insights.
 
 [→ Next: Threefold Pleasure](threefold-pleasure.md)

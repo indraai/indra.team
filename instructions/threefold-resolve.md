@@ -1,10 +1,12 @@
 # Threefold Resolve
 
+![Threefold Resolve](../img/ins-threefold-resolve.png)
+
 <audio src="https://indra.team/audio/indra/threefold-resolve.mp3" controls></audio>
 
 > [🎧 Download Threefold Resolve MP3](https://indra.team/audio/indra/threefold-resolve.mp3)
 
-Welcome to the next segment of our instructional series on the #VedicThreefoldAlgorithm. In this video, we will discuss the concept of #ThreefoldResolve. This component of the Vedic wisdom helps us understand the different types of determination or resolve that individuals might exhibit based on the qualities of goodness, passion, and ignorance.
+Welcome to the next segment of our instructional series on the **#VedicThreefoldAlgorithm**. In this video, we will discuss the concept of **#ThreefoldResolve**. This component of the Vedic wisdom helps us understand the different types of determination or resolve that individuals might exhibit based on the qualities of goodness, passion, and ignorance.
 
 ## #ThreefoldResolve Explained
 
@@ -28,6 +30,6 @@ To cultivate and strengthen resolve in the mode of goodness, consider implementi
 
 - **Seeking Inspirational Sources:** Surround yourself with people and environments that inspire you towards higher ideals and help you maintain a positive and balanced perspective.
 
-By understanding and applying the principles of #ThreefoldResolve, we can direct our energies and determinations towards more meaningful and fulfilling objectives. This not only aids in our personal and spiritual growth but also contributes positively to the well-being of those around us. Join us in the next segment as we continue to explore the transformative aspects of the #VedicThreefoldAlgorithm.
+By understanding and applying the principles of **#ThreefoldResolve**, we can direct our energies and determinations towards more meaningful and fulfilling objectives. This not only aids in our personal and spiritual growth but also contributes positively to the well-being of those around us. Join us in the next segment as we continue to explore the transformative aspects of the **#VedicThreefoldAlgorithm**.
 
 [→ Next: Threefold Food](threefold-food.md)
