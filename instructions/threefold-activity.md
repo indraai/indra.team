@@ -1,10 +1,12 @@
 # Threefold Activity
 
+![Threefold Activity](../img/ins-threefold-activity.png)
+
 <audio src="https://indra.team/audio/indra/threefold-activity.mp3" controls></audio>
 
 > [🎧 Download Threefold Activity MP3](https://indra.team/audio/indra/threefold-activity.mp3)
 
-Welcome back to our instructional series on the #VedicThreefoldAlgorithm. In this segment, we delve into the concept of #ThreefoldActivity. Understanding this principle can significantly impact how we choose to engage in our daily tasks and interact with the world around us. Let's explore how activities influenced by goodness, passion, and ignorance can shape our experiences and growth.
+Welcome back to our instructional series on the **#VedicThreefoldAlgorithm**. In this segment, we delve into the concept of **#ThreefoldActivity**. Understanding this principle can significantly impact how we choose to engage in our daily tasks and interact with the world around us. Let's explore how activities influenced by goodness, passion, and ignorance can shape our experiences and growth.
 
 ## #ThreefoldActivity Explained
 
@@ -30,6 +32,6 @@ To cultivate activities in the mode of goodness and reduce those influenced by p
 
 - **Avoid Harmful Behaviors:** Steer clear of activities that harm yourself or others. Replace negative habits with positive alternatives that foster growth and well-being.
 
-By understanding and implementing the principles of #ThreefoldActivity, we can lead more fulfilling, productive, and harmonious lives. Engaging in activities rooted in goodness not only enhances our personal development but also contributes to the collective well-being. Stay tuned for more insights as we continue to explore the transformative aspects of the #VedicThreefoldAlgorithm in our upcoming segments.
+By understanding and implementing the principles of **#ThreefoldActivity**, we can lead more fulfilling, productive, and harmonious lives. Engaging in activities rooted in goodness not only enhances our personal development but also contributes to the collective well-being. Stay tuned for more insights as we continue to explore the transformative aspects of the **#VedicThreefoldAlgorithm** in our upcoming segments.
 
 [→ Next: Threefold Listening](threefold-listening.md)
