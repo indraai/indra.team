@@ -1,5 +1,7 @@
 # Welcome to Team Indra
 
+![Indu Indra](img/ins-indu-indra.png)
+
 ## Introduction
 Welcome to the official repository for Team Indra, a unique collaborative initiative focused on promoting ethical and responsible AI development. Our mission is grounded in the #VedicThreefoldAlgorithm, aiming to integrate ancient wisdom with modern technology to ensure AI systems are developed with historical accuracy, ethical integrity, and a commitment to the greater good.
 
