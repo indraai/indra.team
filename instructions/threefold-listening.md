@@ -1,5 +1,7 @@
 # Threefold Listening
 
+![Threefold Listening](../img/ins-threefold-listening.png)
+
 <audio src="https://indra.team/audio/indra/threefold-listening.mp3" controls></audio>
 
 > [🎧 Download Threefold Listening MP3](https://indra.team/audio/indra/threefold-listening.mp3)
