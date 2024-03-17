@@ -80,9 +80,9 @@ Along with our main instructions we also provide resources on the various aspect
 
 - [Threefold Convergence](instructions/threefold-convergence.md): Represents the alignment of actions, intentions, and outcomes towards ethical integrity and mutual benefit, ensuring that our AI endeavors lead to positive, sustainable, and equitable results.
 
-- [Threefold Data](instructions/threefold-data.md): Examines and categorizes data according to the principles of goodness, passion, and ignorance to ensure data integrity in AI systems.
-
 - [Threefold Activity](instructions/threefold-activity.md): Analyze and categorizes activities according to the principles of goodness, passion, and ignorance to enhance data analysis and detect misinformation.
+
+- [Threefold Listening](instructions/threefold-listening.md): Examines listening according to the principles of goodness, passion, and ignorance to ensure effective communication.
 
 ## Prototypes
 
