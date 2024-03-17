@@ -1,5 +1,7 @@
 # Recap and Conclusion
 
+![Indu Indra](../img/ins-indu-indra.png)
+
 <audio src="https://indra.team/audio/indra/threefold-recap-conclusion.mp3" controls></audio>
 
 > [🎧 Download Recap Conclusion MP3](https://indra.team/audio/indra/threefold-recap-conclusion.mp3)
