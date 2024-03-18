@@ -6,6 +6,8 @@
 
 > [🎧 Download Diveine Demonic Scale MP3](https://indra.team/audio/indra/divine-demonic-scale.mp3)
 
+> [🍿 Watch the Divine Demonic Scale Youtube Video](https://youtu.be/RHfgODRn6Mc)
+
 In this segment, we'll explore an intriguing component known as the **#DivineDemonicScale**. This scale helps us understand the dual nature within us and guides us towards self-improvement and better decision-making. Let's dive deeper.
 
 ## Introduction to the #DivineDemonicScale
