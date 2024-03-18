@@ -1,4 +1,4 @@
-# Threefold Charity
+# 🙏 Threefold Charity
 
 ![Threefold Charity](../img/ins-threefold-charity.png)
 
@@ -6,17 +6,19 @@
 
 > [🎧 Download Threefold Charity MP3](https://indra.team/audio/indra/threefold-charity.mp3)
 
-Welcome back to our instructional video on the **#VedicThreefoldAlgorithm**. In this segment, we'll explore the concept of #ThreefoldCharity and how it is interpreted and applied within the framework of the Vedic wisdom. Understanding this concept will help us enhance our approach to giving and support the cultivation of a more harmonious and balanced life.
+> [🍿 Watch the Threefold Charity Youtube Video](https://youtu.be/5c8Ab_xXH84)
+
+Welcome back to our instructional video on the **#VedicThreefoldAlgorithm**. In this segment, we'll explore the concept of **#ThreefoldCharity** and how it is interpreted and applied within the framework of the Vedic wisdom. Understanding this concept will help us enhance our approach to giving and support the cultivation of a more harmonious and balanced life.
 
 ## #ThreefoldCharity Explained
 
 Charity, in the Vedic tradition, is not merely an act of giving but a deeply spiritual practice that reflects one's inner state and intentions. It is categorized into three types based on the qualities of goodness, passion, and ignorance.
 
-  - **Goodness (Sattva):** Charity performed in goodness is given out of a sense of duty, to a deserving recipient, without expecting anything in return. It is carried out at the right place and time. This form of charity is considered the purest, as it is motivated solely by the desire to do good and help others. It reinforces a sense of connection and compassion, contributing positively to the giver's spiritual growth and societal harmony.
+  - **Goodness (😇):** Charity performed in goodness is given out of a sense of duty, to a deserving recipient, without expecting anything in return. It is carried out at the right place and time. This form of charity is considered the purest, as it is motivated solely by the desire to do good and help others. It reinforces a sense of connection and compassion, contributing positively to the giver's spiritual growth and societal harmony.
 
-  - **Passion (Rajas):** Charity performed in passion is given reluctantly or with the expectation of receiving something in return. This could be in the form of public acknowledgment, respect, or a favor. The act is often motivated by personal interests, desires, or social status. While the act itself might benefit others, the intention behind it is self-serving, which diminishes the spiritual value and the positive impact it might have on the giver's personal development.
+  - **Passion (😍):** Charity performed in passion is given reluctantly or with the expectation of receiving something in return. This could be in the form of public acknowledgment, respect, or a favor. The act is often motivated by personal interests, desires, or social status. While the act itself might benefit others, the intention behind it is self-serving, which diminishes the spiritual value and the positive impact it might have on the giver's personal development.
 
-  - **Ignorance (Tamas):** The lowest form of charity is that performed in ignorance. This involves giving at the wrong place and time, to unworthy recipients, or without respect and sincerity. It may even involve ridicule or harm to the receiver. Such charity arises from misunderstanding, disdain, or negative emotions. It contributes neither to the well-being of the giver nor to the receiver and may, in fact, propagate harm and negativity.
+  - **Ignorance (😈):** The lowest form of charity is that performed in ignorance. This involves giving at the wrong place and time, to unworthy recipients, or without respect and sincerity. It may even involve ridicule or harm to the receiver. Such charity arises from misunderstanding, disdain, or negative emotions. It contributes neither to the well-being of the giver nor to the receiver and may, in fact, propagate harm and negativity.
 
 ## Applying #ThreefoldCharity in Daily Life
 
