@@ -1,4 +1,4 @@
-# Threefold Intellect
+# 🧐 Threefold Intellect
 
 ![Threefold Intellect](../img/ins-threefold-intellect.png)
 
@@ -6,17 +6,19 @@
 
 > [🎧 Download Threefold Intellect MP3](https://indra.team/audio/indra/threefold-intellect.mp3)
 
+> [🍿 Watch the Threefold Intellect Youtube Video](https://youtu.be/ODZFgVGpz8E)
+
 Welcome back to our instructional series on the **#VedicThreefoldAlgorithm**. In this segment, we delve into the concept of the **#ThreefoldIntellect**. This aspect helps us understand how our cognitive processes, influenced by different modes, affect our perception of duty, ethics, and the world around us. Understanding this concept can enhance our decision-making and lead us towards more fulfilling actions.
 
 ## #ThreefoldIntellect Explained
 
 The intellect, according to Vedic wisdom, can be categorized into three types based on the qualities of goodness, passion, and ignorance. This classification helps us understand the way we process information and make decisions.
 
-- **Goodness (Sattva):** When the intellect operates in the mode of goodness, it has clear vision and understanding. It can accurately discern the path of work from renunciation and identify right from wrong actions. It understands what leads to fear and what leads to fearlessness, as well as what constitutes bondage and what leads to liberation. This type of intellect promotes a balanced and ethical approach to life, guiding individuals towards actions that are in harmony with universal laws and their true self.
+- 😇 **Goodness:** When the intellect operates in the mode of goodness, it has clear vision and understanding. It can accurately discern the path of work from renunciation and identify right from wrong actions. It understands what leads to fear and what leads to fearlessness, as well as what constitutes bondage and what leads to liberation. This type of intellect promotes a balanced and ethical approach to life, guiding individuals towards actions that are in harmony with universal laws and their true self.
 
-- **Passion (Rajas):** In the mode of passion, the intellect becomes clouded by desires and emotions, leading to confusion between righteousness (Dharma) and unrighteousness (Adharma). This confusion hampers the individual's ability to make clear decisions, often leading them to choose actions based on personal gain, desire, or emotional impulses rather than ethical considerations. The intellect in passion struggles with discernment, making it difficult to distinguish between beneficial and harmful paths.
+- 😍 **Passion:** In the mode of passion, the intellect becomes clouded by desires and emotions, leading to confusion between righteousness (Dharma) and unrighteousness (Adharma). This confusion hampers the individual's ability to make clear decisions, often leading them to choose actions based on personal gain, desire, or emotional impulses rather than ethical considerations. The intellect in passion struggles with discernment, making it difficult to distinguish between beneficial and harmful paths.
 
-- **Ignorance (Tamas):** When the intellect is in the mode of ignorance, it misinterprets reality, mistaking unrighteousness for righteousness and falsehood for truth. This type of intellect is characterized by delusion, misunderstanding, and a lack of awareness. It leads individuals to make poor decisions, often causing harm to themselves and others, as they are unable to see things as they truly are.
+- 😈 **Ignorance:** When the intellect is in the mode of ignorance, it misinterprets reality, mistaking unrighteousness for righteousness and falsehood for truth. This type of intellect is characterized by delusion, misunderstanding, and a lack of awareness. It leads individuals to make poor decisions, often causing harm to themselves and others, as they are unable to see things as they truly are.
 
 ## Applying #ThreefoldIntellect in Daily Life
 
