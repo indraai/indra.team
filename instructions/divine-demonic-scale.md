@@ -1,4 +1,4 @@
-# Divine Demonic Scale
+# ⚖️ Divine Demonic Scale
 
 ![Divine Demonic Scale](../img/ins-divine-demonic-scale.png)
 

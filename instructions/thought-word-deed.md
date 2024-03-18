@@ -1,4 +1,4 @@
-# Thought Word Deed
+# 🤝 Thought Word Deed
 
 ![Thought Word Deed](../img/ins-thought-word-deed.png)
 

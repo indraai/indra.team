@@ -1,4 +1,4 @@
-# Threefold Austerity
+# 🧘‍♂️ Threefold Austerity
 
 ![Threefold Austerity](../img/ins-threefold-austerity.png)
 
