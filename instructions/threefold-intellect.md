@@ -2,7 +2,7 @@
 
 ![Threefold Intellect](../img/ins-threefold-intellect.png)
 
-<audio src="https://indra.team/audio/indra/threefold-intellect.mp3" controls></audio>
+<audio src="https://indra.team/audio/indra/threefold-intellect.mp3" controls style="width:100%;height:25px"></audio>
 
 > [🎧 Download Threefold Intellect MP3](https://indra.team/audio/indra/threefold-intellect.mp3)
 

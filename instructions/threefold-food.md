@@ -1,10 +1,12 @@
-# Threefold Food
+# 🍚 Threefold Food
 
 ![Threefold Food](../img/ins-threefold-food.png)
 
-<audio src="https://indra.team/audio/indra/threefold-food.mp3" controls></audio>
+<audio src="https://indra.team/audio/indra/threefold-food.mp3" controls style="width:100%;height:25px"></audio>
 
 > [🎧 Download Threefold Food MP3](https://indra.team/audio/indra/threefold-fppd.mp3)
+
+> [🍿 Watch the Threefold Food Youtube Video](https://youtu.be/m0QRHWy7U9o)
 
 Welcome back to our instructional video series on the **#VedicThreefoldAlgorithm**. Today, we're exploring an essential aspect of our daily lives influenced by Vedic principles: the **#ThreefoldFood**. Understanding the nature of the food we consume according to the modes of goodness, passion, and ignorance can profoundly impact our health, well-being, and even our mental and emotional states.
 
@@ -12,11 +14,11 @@ Welcome back to our instructional video series on the **#VedicThreefoldAlgorithm
 
 In the Vedic tradition, food is not just physical nourishment but also contributes to our mental and spiritual health. Let's examine how different types of food align with the three modes of nature.
 
-- **Goodness (Sattva):** Foods in the mode of goodness are described as juicy, smooth, substantial, and nutritious. They are naturally pleasing to the palate and provide the body with the proper nutrients for maintenance and growth. Such foods include fresh fruits, vegetables, grains, nuts, and dairy. Consuming sattvic foods can elevate our consciousness, promote clarity of mind, vitality, and longevity. They support physical health while nurturing positive emotions and mental clarity.
+- 😇 **Goodness:** Foods in the mode of goodness are described as juicy, smooth, substantial, and nutritious. They are naturally pleasing to the palate and provide the body with the proper nutrients for maintenance and growth. Such foods include fresh fruits, vegetables, grains, nuts, and dairy. Consuming sattvic foods can elevate our consciousness, promote clarity of mind, vitality, and longevity. They support physical health while nurturing positive emotions and mental clarity.
 
-- **Passion (Rajas):** Foods categorized under the mode of passion are typically bitter, sour, salty, hot, or pungent. They excite the senses and can induce immediate bursts of energy, but this is often followed by a rapid energy decline. Examples include spicy foods, heavily seasoned dishes, caffeine, and certain processed foods. While these foods can stimulate the mind and body, they may lead to restlessness, irritability, and a fluctuating energy level when consumed in excess.
+- 😍 **Passion:** Foods categorized under the mode of passion are typically bitter, sour, salty, hot, or pungent. They excite the senses and can induce immediate bursts of energy, but this is often followed by a rapid energy decline. Examples include spicy foods, heavily seasoned dishes, caffeine, and certain processed foods. While these foods can stimulate the mind and body, they may lead to restlessness, irritability, and a fluctuating energy level when consumed in excess.
 
-- **Ignorance (Tamas):** Foods associated with the mode of ignorance are stale, tasteless, putrid, rotten, and impure. This category includes over-processed, leftover, and decomposing foods that offer little nutritional value and can harm the body and mind. Consuming tamasic foods can lead to lethargy, confusion, and a sense of heaviness. They are detrimental to our physical health and can cloud our mental state, hindering spiritual growth and overall well-being.
+- 😈 **Ignorance:** Foods associated with the mode of ignorance are stale, tasteless, putrid, rotten, and impure. This category includes over-processed, leftover, and decomposing foods that offer little nutritional value and can harm the body and mind. Consuming tamasic foods can lead to lethargy, confusion, and a sense of heaviness. They are detrimental to our physical health and can cloud our mental state, hindering spiritual growth and overall well-being.
 
 ## Applying #ThreefoldFood in Daily Life
 

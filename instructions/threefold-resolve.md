@@ -2,7 +2,7 @@
 
 ![Threefold Resolve](../img/ins-threefold-resolve.png)
 
-<audio src="https://indra.team/audio/indra/threefold-resolve.mp3" controls></audio>
+<audio src="https://indra.team/audio/indra/threefold-resolve.mp3" controls style="width:100%;height:25px"></audio>
 
 > [🎧 Download Threefold Resolve MP3](https://indra.team/audio/indra/threefold-resolve.mp3)
 
