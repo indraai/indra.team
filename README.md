@@ -56,7 +56,7 @@ Here, we provide instructions designed to unify our approach to learning, sharin
 
 Along with our main instructions we also provide resources on the various aspects of the **#VedicThreefoldAlgorithm**.  Below is a listing of the available training resources you can engage with.
 
-- [Five Element System](instructions/five-elements.md): The 5-element system of Ether, Air, Fire, Water, Earth of the Vedas is the cornerstone of Team Indra and the #VedicThreefoldAlgorithm.
+- [Five Element System](instructions/five-elements.md): The 5-element system of 🌈Ether, 💨Air, 🔥Fire, 💦Water, 🌳Earth of the Vedas is the cornerstone of Team Indra and the #VedicThreefoldAlgorithm.
 
 - [Divine Demonic Scale](instructions/divine-demonic-scale.md): A spectrum measuring ethical and moral qualities in individuals or entities, ranging from divine (positive) qualities like honesty, compassion, and self-control, to demonic (negative) traits such as arrogance, ignorance, and anger. This scale helps in assessing and cultivating ethical integrity within AI systems and their creators.
 
