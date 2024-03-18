@@ -2,7 +2,7 @@
 
 ![Threefold Charity](../img/ins-threefold-charity.png)
 
-<audio src="https://indra.team/audio/indra/threefold-charity.mp3" controls></audio>
+<audio src="https://indra.team/audio/indra/threefold-charity.mp3" controls style="width:100%;height:25px"></audio>
 
 > [🎧 Download Threefold Charity MP3](https://indra.team/audio/indra/threefold-charity.mp3)
 
@@ -22,7 +22,7 @@ Charity, in the Vedic tradition, is not merely an act of giving but a deeply spi
 
 ## Applying #ThreefoldCharity in Daily Life
 
-To apply the principles of #ThreefoldCharity in our lives, we must first cultivate awareness and discernment regarding our motives for giving. Here are some steps we can take:
+To apply the principles of **#ThreefoldCharity** in our lives, we must first cultivate awareness and discernment regarding our motives for giving. Here are some steps we can take:
 
   - **Reflect on Intentions:** Before giving, take a moment to reflect on your intentions. Ask yourself whether you are motivated by a genuine desire to help, a need for recognition, or other less altruistic reasons.
 
@@ -32,6 +32,6 @@ To apply the principles of #ThreefoldCharity in our lives, we must first cultiva
 
   - **Timing and Context:** Consider the timing and context of your charity. Giving should be appropriate to the situation and beneficial to the recipient.
 
-By practicing charity in the mode of goodness, we align our actions with the highest principles of the #VedicThreefoldAlgorithm, fostering personal growth, societal well-being, and spiritual fulfillment. In the next segment, we will continue to explore how these principles can be applied to other aspects of our lives. Stay tuned.
+By practicing charity in the mode of goodness, we align our actions with the highest principles of the **#VedicThreefoldAlgorithm**, fostering personal growth, societal well-being, and spiritual fulfillment. In the next segment, we will continue to explore how these principles can be applied to other aspects of our lives. Stay tuned.
 
 [→ Next: Threefold Action](threefold-action.md)
