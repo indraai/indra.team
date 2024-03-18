@@ -2,11 +2,11 @@
 
 ![Five Element System](../img/ins-five-elements.png)
 
-<video src="https://indra.team/video/vta-five-element-system.mp4" controls width="100%"></video>
+<audio src="https://indra.team/audio/indra/five-element-system.mp3" controls style="width:100%;height:25px"></audio>
 
-<audio src="https://indra.team/audio/indra/five-element-system.mp3" controls style="width:100%;height:25px" ></audio>
+> [🎧 Download Five Element System Audio](https://indra.team/audio/indra/five-element-system.mp3)
 
-> [🎧 Download Five Element System MP3](https://indra.team/audio/indra/five-element-system.mp3)
+> [🍿 Watch Five Element System Youtube Video](https://youtu.be/wq6WVKkQcZA)
 
 Welcome to our instructional video on the **#VedicThreefoldAlgorithm**. In this segment, we're going to introduce you to the foundational concept that underpins this system: the Vedic 5-element system. This ancient wisdom, integral to Vedic philosophy, provides the framework for understanding the universe and our place within it. Let's dive in.
 
