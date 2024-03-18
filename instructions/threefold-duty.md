@@ -1,4 +1,4 @@
-# Threefold Duty
+# 🫡 Threefold Duty
 
 ![Threefold Duty](../img/ins-threefold-duty.png)
 
@@ -6,17 +6,19 @@
 
 > [🎧 Download Threefold Duty MP3](https://indra.team/audio/indra/threefold-duty.mp3)
 
+> [🍿 Watch the Threefold Duty Youtube Video](https://youtu.be/Gq3FXX-oeE0)
+
 Welcome back to our instructional video series on the **#VedicThreefoldAlgorithm**. Today, we will be discussing an integral concept within this system: the **#ThreefoldDuty**. Understanding our duties and how we approach them can significantly impact our personal development and our contribution to society.
 
 ## #ThreefoldDuty Explained
 
 In the context of the Vedic Threefold Algorithm, our duties or responsibilities can be approached through three distinct lenses: goodness, passion, and ignorance. Each of these influences our attitude and execution of our obligations in different ways.
 
-  - **Goodness (Sattva):** In the mode of goodness, duty is performed as an obligation, with a focus on the action itself rather than the fruits or results. This approach involves performing tasks with dedication, sincerity, and a sense of service, without selfish attachments to the outcomes. An individual acting in goodness understands the importance of their duties in maintaining harmony and order, contributing positively to their environment. They perform their obligations out of a sense of rightness and commitment to the greater good.
+  - 😇 **Goodness:** In the mode of goodness, duty is performed as an obligation, with a focus on the action itself rather than the fruits or results. This approach involves performing tasks with dedication, sincerity, and a sense of service, without selfish attachments to the outcomes. An individual acting in goodness understands the importance of their duties in maintaining harmony and order, contributing positively to their environment. They perform their obligations out of a sense of rightness and commitment to the greater good.
 
-  - **Passion (Rajas):** When duties are approached with passion, the individual may start with enthusiasm but often lacks the perseverance or sincerity to see tasks through, especially when faced with difficulties or when the actions no longer serve their personal interests. In this mode, duties are often abandoned or performed half-heartedly if they are perceived as challenging or if they do not provide immediate gratification or recognition. This approach can lead to inconsistency, frustration, and an unfulfilled potential, as actions are driven by selfish desires and the fluctuating moods of the individual.
+  - 😍 **Passion:** When duties are approached with passion, the individual may start with enthusiasm but often lacks the perseverance or sincerity to see tasks through, especially when faced with difficulties or when the actions no longer serve their personal interests. In this mode, duties are often abandoned or performed half-heartedly if they are perceived as challenging or if they do not provide immediate gratification or recognition. This approach can lead to inconsistency, frustration, and an unfulfilled potential, as actions are driven by selfish desires and the fluctuating moods of the individual.
 
-  - **Ignorance (Tamas):** In the mode of ignorance, individuals might neglect or abandon their duties due to laziness, confusion, or delusion. They may rationalize their lack of action with excuses, avoiding responsibility due to fear, misunderstanding, or a lack of interest. This neglect can lead to chaos, harm, or the deterioration of one's personal and professional life, as well as negative consequences for others who depend on their actions.
+  - 😈 **Ignorance (Tamas):** In the mode of ignorance, individuals might neglect or abandon their duties due to laziness, confusion, or delusion. They may rationalize their lack of action with excuses, avoiding responsibility due to fear, misunderstanding, or a lack of interest. This neglect can lead to chaos, harm, or the deterioration of one's personal and professional life, as well as negative consequences for others who depend on their actions.
 
 ## Applying #ThreefoldDuty in Daily Life
 
