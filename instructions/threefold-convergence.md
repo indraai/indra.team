@@ -1,4 +1,4 @@
-# Threefold Convergence
+# ✅ Threefold Convergence
 
 ![Threefold Convergence](../img/ins-threefold-convergence.png)
 
@@ -6,17 +6,19 @@
 
 > [🎧 Download Threefold Convergence MP3](https://indra.team/audio/indra/threefold-convergence.mp3)
 
+> [🍿 Watch the Threefold Convergence Youtube Video](https://youtu.be/yXVIfyDBEbM)
+
 Welcome back to our instructional series on the **#VedicThreefoldAlgorithm**. In this segment, we focus on an intriguing aspect known as the **#ThreefoldConvergence**. This principle helps us understand the collective dynamics and the impact of group actions based on the qualities of goodness, passion, and ignorance.
 
 ## #ThreefoldConvergence Explained
 
 The concept of convergence refers to the coming together of individuals or groups, leading to the amalgamation of energies, ideas, and qualities. The nature of this convergence can significantly influence the outcomes and the overarching attributes of the group.
 
-- **Goodness (Sattva):** In the mode of goodness, the convergence of groups results in attributes aligned with positive values such as harmony, cooperation, and constructive growth. When individuals or groups operating in goodness come together, they create an environment that promotes mutual respect, shared learning, and collective well-being. The convergence in goodness leads to outcomes that are beneficial for all involved, fostering a sense of community, shared purpose, and sustainable progress.
+- 😇 **Goodness:** In the mode of goodness, the convergence of groups results in attributes aligned with positive values such as harmony, cooperation, and constructive growth. When individuals or groups operating in goodness come together, they create an environment that promotes mutual respect, shared learning, and collective well-being. The convergence in goodness leads to outcomes that are beneficial for all involved, fostering a sense of community, shared purpose, and sustainable progress.
 
-- **Passion (Rajas):** When groups converge under the influence of passion, the resulting attributes align with dynamic, aggressive, and sometimes self-centered actions. While this convergence can lead to high energy and creativity, it often focuses on achieving personal or group ambitions, sometimes at the expense of others. This type of convergence might initially appear productive and vibrant but can lead to conflict, competition, and unsustainable outcomes if not balanced with considerations of ethics and collective welfare.
+- 😍 **Passion:** When groups converge under the influence of passion, the resulting attributes align with dynamic, aggressive, and sometimes self-centered actions. While this convergence can lead to high energy and creativity, it often focuses on achieving personal or group ambitions, sometimes at the expense of others. This type of convergence might initially appear productive and vibrant but can lead to conflict, competition, and unsustainable outcomes if not balanced with considerations of ethics and collective welfare.
 
-- **Ignorance (Tamas):** Convergence in the mode of ignorance results in attributes that are characterized by confusion, negligence, and destructive behaviors. Groups operating under ignorance may come together based on shared misconceptions, prejudices, or harmful intentions. This convergence fosters an environment of disarray, misunderstanding, and lethargy, leading to outcomes that can be harmful both to the group and the wider community.
+- 😈 **Ignorance:** Convergence in the mode of ignorance results in attributes that are characterized by confusion, negligence, and destructive behaviors. Groups operating under ignorance may come together based on shared misconceptions, prejudices, or harmful intentions. This convergence fosters an environment of disarray, misunderstanding, and lethargy, leading to outcomes that can be harmful both to the group and the wider community.
 
 ## Applying #ThreefoldConvergence in Daily Life
 
