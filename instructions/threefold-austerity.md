@@ -18,8 +18,8 @@ In this segment of our instructional video, we delve into the concept of **#Thre
 
 ## Applying Threefold Austerity
 
-Understanding and applying the concept of Threefold Austerity in our lives encourages us to examine our intentions and practices closely. It asks us to consider why we are undertaking certain disciplines or practices and what we hope to achieve through them. By aligning our austerities with the mode of goodness, we focus on genuine growth and contribution, fostering a sense of peace, contentment, and spiritual fulfillment.
+Understanding and applying the concept of **#ThreefoldAusterity** in our lives encourages us to examine our intentions and practices closely. It asks us to consider why we are undertaking certain disciplines or practices and what we hope to achieve through them. By aligning our austerities with the mode of goodness, we focus on genuine growth and contribution, fostering a sense of peace, contentment, and spiritual fulfillment.
 
-In our next segment, we will explore practical ways to incorporate these insights into our daily lives, enhancing our personal and communal well-being through mindful practice and disciplined action. Stay with us as we continue to explore the transformative aspects of the #VedicThreefoldAlgorithm.
+In our next segment, we will explore practical ways to incorporate these insights into our daily lives, enhancing our personal and communal well-being through mindful practice and disciplined action. Stay with us as we continue to explore the transformative aspects of the **#VedicThreefoldAlgorithm**.
 
 [→ Next: Threefold Charity](threefold-charity.md)
