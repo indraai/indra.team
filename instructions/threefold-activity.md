@@ -1,4 +1,4 @@
-# Threefold Activity
+# 🕺  Threefold Activity
 
 ![Threefold Activity](../img/ins-threefold-activity.png)
 
@@ -6,17 +6,19 @@
 
 > [🎧 Download Threefold Activity MP3](https://indra.team/audio/indra/threefold-activity.mp3)
 
+> [🍿 Watch the Threefold Activity Youtube Video](https://youtu.be/RiPizf5A7Bg)
+
 Welcome back to our instructional series on the **#VedicThreefoldAlgorithm**. In this segment, we delve into the concept of **#ThreefoldActivity**. Understanding this principle can significantly impact how we choose to engage in our daily tasks and interact with the world around us. Let's explore how activities influenced by goodness, passion, and ignorance can shape our experiences and growth.
 
 ## #ThreefoldActivity Explained
 
 Activities, according to the Vedic tradition, can also be categorized based on the three modes of nature: goodness, passion, and ignorance. Each mode influences our actions and their outcomes differently.
 
-- **Goodness (Sattva):** Activities undertaken in the mode of goodness are characterized as positive, productive, progressive, and skillful. These actions contribute to personal growth and the well-being of others. They are purposeful, considerate, and aimed at improving situations, relationships, and environments. Engaging in activities aligned with goodness leads to a sense of fulfillment, peace, and lasting happiness. Examples include volunteering, learning new skills, constructive communication, and creating things of value.
+- 😇 **Goodness:** Activities undertaken in the mode of goodness are characterized as positive, productive, progressive, and skillful. These actions contribute to personal growth and the well-being of others. They are purposeful, considerate, and aimed at improving situations, relationships, and environments. Engaging in activities aligned with goodness leads to a sense of fulfillment, peace, and lasting happiness. Examples include volunteering, learning new skills, constructive communication, and creating things of value.
 
-- **Passion (Rajas):** Activities driven by passion often revolve around personal interests, small talk, and the assertion of individual beliefs. While they can be energetic and motivated, these activities are typically centered around self-gratification, recognition, or the pursuit of temporary pleasures. They may lead to short-term achievements or excitement but often result in restlessness, dissatisfaction, or conflict, as they are not rooted in a deeper purpose or consideration for the collective good.
+- 😍 **Passion:** Activities driven by passion often revolve around personal interests, small talk, and the assertion of individual beliefs. While they can be energetic and motivated, these activities are typically centered around self-gratification, recognition, or the pursuit of temporary pleasures. They may lead to short-term achievements or excitement but often result in restlessness, dissatisfaction, or conflict, as they are not rooted in a deeper purpose or consideration for the collective good.
 
-- **Ignorance (Tamas):** Activities in the mode of ignorance are marked by negativity, secrecy, deception, and a lack of skill or effort. These actions are often harmful, unproductive, and lead to confusion, waste, or destruction. Engaging in such activities can result from laziness, carelessness, or harmful intentions, resulting in adverse outcomes for oneself and others. Examples include spreading misinformation, indulging in harmful habits, and avoiding responsibilities.
+- 😈 **Ignorance:** Activities in the mode of ignorance are marked by negativity, secrecy, deception, and a lack of skill or effort. These actions are often harmful, unproductive, and lead to confusion, waste, or destruction. Engaging in such activities can result from laziness, carelessness, or harmful intentions, resulting in adverse outcomes for oneself and others. Examples include spreading misinformation, indulging in harmful habits, and avoiding responsibilities.
 
 ## Applying #ThreefoldActivity in Daily Life
 
