@@ -6,6 +6,8 @@
 
 > [🎧 Download Threefold Austerity MP3](https://indra.team/audio/indra/threefold-austerity.mp3)
 
+> [🍿 Watch Threefold Austerity Youtube Video](https://youtu.be/auXshIRv9bk)
+
 In this segment of our instructional video, we delve into the concept of #ThreefoldAusterity, an integral part of the #VedicThreefoldAlgorithm. Austerity, or Tapas in Sanskrit, involves self-discipline and self-control and is considered a vital practice for personal growth and spiritual development. Let’s understand how this concept manifests in three different modes: goodness, passion, and ignorance.
 
   - **Goodness**: Austerity practiced with goodness is done with purity, sincerity, and faith, without any desire for personal gain or recognition. This form of austerity is aligned with the qualities of thought, word, and deed we previously discussed. When you practice austerity in the mode of goodness, you focus on self-improvement and spiritual growth, contributing positively to those around you. Your actions are not aimed at personal accolades or material rewards but are performed as a duty and a service to others and the higher self.
