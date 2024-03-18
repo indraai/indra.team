@@ -1,4 +1,4 @@
-# Threefold Agent
+# 🎅 Threefold Agent
 
 ![Threefold Agent](../img/ins-threefold-agent.png)
 
@@ -6,17 +6,19 @@
 
 > [🎧 Download Threefold Agent MP3](https://indra.team/audio/indra/threefold-agent.mp3)
 
+> [🍿 Watch the Threefold Agent Youtube Video](https://youtu.be/7BkJhxIrB4w)
+
 Welcome to the next segment of our instructional series on the **#VedicThreefoldAlgorithm**. Today, we will explore the concept of the **#ThreefoldAgent**. This aspect helps us understand the nature and quality of the 'doer' or the individual performing actions. By analyzing our own tendencies and motivations, we can shift towards more harmonious and effective ways of being and acting in the world.
 
 ## #ThreefoldAgent Explained
 
 In the Vedic tradition, the nature of the agent – the individual or entity taking action – is categorized into three types: goodness, passion, and ignorance. This classification helps in understanding the underlying motivations and behaviors driving our actions.
 
-  - **Goodness (Sattva):** An agent in the mode of goodness acts without attachment to the results of their actions. They are not driven by ego or personal gain. Instead, they are motivated by a sense of duty, resolve, and enthusiasm for the task at hand. Such individuals remain balanced and composed, whether they encounter success or failure. Their actions promote harmony, understanding, and welfare for all. By embodying these qualities, the agent in goodness contributes positively to their environment and cultivates inner peace.
+  - 😇 **Goodness:** An agent in the mode of goodness acts without attachment to the results of their actions. They are not driven by ego or personal gain. Instead, they are motivated by a sense of duty, resolve, and enthusiasm for the task at hand. Such individuals remain balanced and composed, whether they encounter success or failure. Their actions promote harmony, understanding, and welfare for all. By embodying these qualities, the agent in goodness contributes positively to their environment and cultivates inner peace.
 
-  - **Passion (Rajas):** An agent driven by passion is often controlled by their desires and ego. They are highly attached to the outcomes of their actions, seeking personal benefit, recognition, or reward. This attachment can lead to greed, aggression, and impurity in their methods and intentions. Such agents are easily swayed by emotions, experiencing significant highs and lows based on their successes and failures. While they may achieve temporary gains, their actions often lead to stress, conflict, and dissatisfaction in the long run.
+  - 😍 **Passion:** An agent driven by passion is often controlled by their desires and ego. They are highly attached to the outcomes of their actions, seeking personal benefit, recognition, or reward. This attachment can lead to greed, aggression, and impurity in their methods and intentions. Such agents are easily swayed by emotions, experiencing significant highs and lows based on their successes and failures. While they may achieve temporary gains, their actions often lead to stress, conflict, and dissatisfaction in the long run.
 
-  - **Ignorance (Tamas):** An agent acting in ignorance exhibits negative traits such as indiscipline, vulgarity, stubbornness, and malice. They may procrastinate, act out of wickedness, or harm others intentionally or through neglect. Their actions are marked by a lack of awareness, understanding, or concern for the consequences. This mode leads to chaos, suffering, and a downward spiral in both personal development and societal impact.
+  - 😈 **Ignorance:** An agent acting in ignorance exhibits negative traits such as indiscipline, vulgarity, stubbornness, and malice. They may procrastinate, act out of wickedness, or harm others intentionally or through neglect. Their actions are marked by a lack of awareness, understanding, or concern for the consequences. This mode leads to chaos, suffering, and a downward spiral in both personal development and societal impact.
 
 ## Applying #ThreefoldAgent in Daily Life
 
