@@ -2,7 +2,7 @@
 
 ![Threefold Agent](../img/ins-threefold-agent.png)
 
-<audio src="https://indra.team/audio/indra/threefold-agent.mp3" controls></audio>
+<audio src="https://indra.team/audio/indra/threefold-agent.mp3" controls style="width:100%;height:25px"></audio>
 
 > [🎧 Download Threefold Agent MP3](https://indra.team/audio/indra/threefold-agent.mp3)
 

@@ -1,10 +1,12 @@
-# Threefold Listening
+# 👂 Threefold Listening
 
 ![Threefold Listening](../img/ins-threefold-listening.png)
 
-<audio src="https://indra.team/audio/indra/threefold-listening.mp3" controls></audio>
+<audio src="https://indra.team/audio/indra/threefold-listening.mp3" controls style="width:100%;height:25px"></audio>
 
 > [🎧 Download Threefold Listening MP3](https://indra.team/audio/indra/threefold-listening.mp3)
+
+> [🍿 Watch the Threefold Listening Youtube video](https://youtu.be/fIuplLSPRQI)
 
 Welcome to our instructional series on the **#VedicThreefoldAlgorithm**. Today, we are exploring the concept of **#ThreefoldListening**. Understanding this component is vital for effective communication, personal growth, and building healthy relationships. Let's dive into how listening can be influenced by the three modes of nature: goodness, passion, and ignorance.
 
@@ -12,11 +14,11 @@ Welcome to our instructional series on the **#VedicThreefoldAlgorithm**. Today, 
 
 Listening is a fundamental aspect of human interaction and communication. How we listen can greatly impact our understanding, relationships, and decision-making processes.
 
-- **Goodness (Sattva):** Listening in the mode of goodness is characterized by being present, active, and engaged. When we listen in goodness, we fully attend to the speaker, without preconceptions or distractions. This type of listening involves open-mindedness, empathy, and a genuine desire to understand the other person's perspective. Active engagement means asking clarifying questions, reflecting back what has been said, and showing respect for the speaker's ideas and feelings. This approach fosters clear understanding, mutual respect, and constructive dialogues.
+- 😇 **Goodness:** Listening in the mode of goodness is characterized by being present, active, and engaged. When we listen in goodness, we fully attend to the speaker, without preconceptions or distractions. This type of listening involves open-mindedness, empathy, and a genuine desire to understand the other person's perspective. Active engagement means asking clarifying questions, reflecting back what has been said, and showing respect for the speaker's ideas and feelings. This approach fosters clear understanding, mutual respect, and constructive dialogues.
 
-- **Passion (Rajas):** Listening influenced by passion is often partially engaged and can be dismissive. In this mode, one might listen with the intent to reply rather than to understand, or they may be quick to judge and react. This kind of listening can be characterized by interruptions, jumping to conclusions, or planning one's response while the other person is still speaking. The listener may hear the words but miss the underlying emotions or intentions, leading to misunderstandings and strained relationships.
+- 😍 **Passion:** Listening influenced by passion is often partially engaged and can be dismissive. In this mode, one might listen with the intent to reply rather than to understand, or they may be quick to judge and react. This kind of listening can be characterized by interruptions, jumping to conclusions, or planning one's response while the other person is still speaking. The listener may hear the words but miss the underlying emotions or intentions, leading to misunderstandings and strained relationships.
 
-- **Ignorance (Tamas):** In the mode of ignorance, listening becomes inactive, disengaged, or entirely absent. Individuals may ignore the speaker, get easily distracted, or show a lack of interest in the conversation. This level of inattentiveness can result from preoccupation with one's own thoughts, feelings of apathy, or a lack of respect for the speaker. Such disengagement leads to poor understanding, misinterpretation, and a lack of meaningful connection.
+- 😈 **Ignorance:** In the mode of ignorance, listening becomes inactive, disengaged, or entirely absent. Individuals may ignore the speaker, get easily distracted, or show a lack of interest in the conversation. This level of inattentiveness can result from preoccupation with one's own thoughts, feelings of apathy, or a lack of respect for the speaker. Such disengagement leads to poor understanding, misinterpretation, and a lack of meaningful connection.
 
 ## Applying #ThreefoldListening in Daily Life
 

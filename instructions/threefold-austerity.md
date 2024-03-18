@@ -2,7 +2,7 @@
 
 ![Threefold Austerity](../img/ins-threefold-austerity.png)
 
-<audio src="https://indra.team/audio/indra/threefold-austerity.mp3" controls></audio>
+<audio src="https://indra.team/audio/indra/threefold-austerity.mp3" controls style="width:100%;height:25px"></audio>
 
 > [🎧 Download Threefold Austerity MP3](https://indra.team/audio/indra/threefold-austerity.mp3)
 

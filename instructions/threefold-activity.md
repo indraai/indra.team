@@ -2,7 +2,7 @@
 
 ![Threefold Activity](../img/ins-threefold-activity.png)
 
-<audio src="https://indra.team/audio/indra/threefold-activity.mp3" controls></audio>
+<audio src="https://indra.team/audio/indra/threefold-activity.mp3" controls style="width:100%;height:25px"></audio>
 
 > [🎧 Download Threefold Activity MP3](https://indra.team/audio/indra/threefold-activity.mp3)
 
