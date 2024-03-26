@@ -118,7 +118,7 @@ These #ROGUES are NOT a member of #TeamIndra and have no connection to #TeamIndr
 
 We take the instructions tutorial to the next step and learn about the Vedic Five Element System of Air, Earth, Water, Fire, and Ether.
 
-[→ Next: Five Element System](five-elements.md)
+[→ Next: Intelligence](intelligence.md)
 
 ## Links
 - https://indra.team  
